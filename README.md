@@ -1,2 +1,2 @@
-# imit
+# IMIT
 IMIT Policy Framework
