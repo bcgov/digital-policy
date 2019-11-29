@@ -12,12 +12,11 @@ An executive-level Reference Group with representatives from across government i
 
  Purpose
  
- •	Enable optimized use of government IM IT assets and enhanced services to citizens through a forward-thinking, cohesive and user-focused    policy framework.
+ •	Enable optimized use of government IM IT assets and enhanced services to citizens through a forward-thinking, cohesive and user-      focused policy framework. 
 •	Publish a modern and effective Core Policy on IM IT.
 •	Enable streamlined future development of other corporate policy instruments, and iteration in response to emerging needs and priorities.
 
 What Do We Mean By “Policy Framework”?
-
 •	Enable streamlined development of policy instruments in response to emerging needs and priorities as we transition to digital.
 •	Enable business owners and program areas to situate their IM IT-related work within the wider policy landscape.
 •	Accountability.
