@@ -6,13 +6,13 @@ The OCIO’s Chief Digital Officer, Jaimie Boyd, and Chief Policy Officer, Joel 
 
 **Purpose**
 
-To enable optimized use of government IM IT assets and enhanced services to citizens through a forward-thinking, cohesive and user-focused IM IT policy framework. This will include a modern and effective Core Policy on IM IT. The Framework will also enable streamlined future development of other corporate policy instruments, and iteration in response to emerging needs and priorities.
+- Enable optimized use of government IM IT assets and enhanced services to citizens through a forward-thinking, cohesive and user-focused IM IT policy framework. This will include a modern and effective Core Policy on IM IT.
+- The Integrated IM IT Policy Framework will also enable streamlined future development of other corporate policy instruments, and iteration in response to emerging needs and priorities.
 
 **How to Contribute**
 
-You can contribute issues directly to this repository.
-
-We are also seeking feedback on draft Digital Principles, which are available at https://github.com/bcgov/digital-principles.
+- You can contribute issues directly to this repository.
+- We are also seeking feedback on draft Digital Principles, which are available at https://github.com/bcgov/digital-principles.
 
 **License**
 
