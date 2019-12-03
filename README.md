@@ -10,7 +10,8 @@ To enable optimized use of government IM IT assets and enhanced services to citi
 
 **How to Contribute**
 
-You can contribute issues directly to this GitHub repository.
+You can contribute issues directly to this repository.
+
 We are also seeking feedback on draft Digital Principles, which are available at https://github.com/bcgov/digital-principles.
 
 **License**
