@@ -25,7 +25,7 @@
 
 This policy applies to government [information management (IM)](#information-management-im) and [information technology (IT)](#information-technology-it) management.
 
-This Chapter does not list all government IM IT requirements and must be read in conjunction with applicable IM IT policies and standards issued by government, including the Office of the Chief Information Officer (OCIO). This Chapter should also be considered in conjunction with other core policy areas on planning (chapter 3), procurement (chapter 6), fees and licensing (chapter 7), asset management (chapter 8), financial systems and controls (chapter 13), risk management (chapter 14), general security (chapter 15), business continuity (chapter 16) and loss management (chapter 20). 
+This Chapter does not list all government IM IT requirements and must be read in conjunction with applicable IM IT policies and standards issued by government, including the Office of the Chief Information Officer (OCIO). This Chapter should also be considered in conjunction with other core policy areas on planning [(chapter 3)](http://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/planning-budgeting-and-reporting), procurement [(chapter 6)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/procurement), fees and licensing [(chapter 7)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/revenue-and-receivables-management), asset management [(chapter 8)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/asset-management), financial systems and controls [(chapter 13)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/financial-systems-and-controls), risk management [(chapter 14)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/risk-management), general security [(chapter 15)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/security), business continuity [(chapter 16)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/business-continuity-management) and loss management [(chapter 20)](http://https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/loss-management). 
 
 IM IT includes, but is not necessarily limited to:
 
@@ -62,7 +62,7 @@ The GCIO has the responsibility to:
 
 1.	Provide strategic direction for government IM IT.
 
-2.	Manage provincial IM IT legislation, including the Freedom of Information and Protection of Privacy Act (FOIPPA), the Electronic Transactions Act (ETA), the Information Management Act (IMA) and the Personal Information Protection Act (PIPA).
+2.	Manage provincial IM IT legislation, including the [Freedom of Information and Protection of Privacy Act (FOIPPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [Electronic Transactions Act (ETA)](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01), the [Information Management Act (IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027) and the [Personal Information Protection Act (PIPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01).
 
 3.	Collaborate with ministries to develop and set corporate IM IT policies, standards, guidelines and procedures for the Province.
 
@@ -90,7 +90,7 @@ The GCIO has the responsibility to:
 
 The CRO has statutory powers under the IMA and has the responsibility to:
 
-1.	Deliver on the mandate set in the IMA.
+1.	Deliver on the [mandate set in the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section3).
 
 ## 12.2.3 Deputy Ministers (or Equivalent Positions) or Delegates
 
@@ -116,7 +116,7 @@ Deputy Ministers (DMs) or delegates have the responsibility to:
 
 Every government [employee](#employee) manages government information and uses government IT. As such, all employees have the responsibility to:
 
-1.	Be aware of their IM IT obligations.
+1.	Be aware of their [IM IT obligations](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/appropriate-use-policy).
 
 2.	Actively protect confidential government information, personal information and government IT resources.
 
@@ -124,7 +124,7 @@ Every government [employee](#employee) manages government information and uses g
 
 Every government [supervisor](#supervisor) has the responsibility to:
 
-1.	Ensure that employees are made aware of their IM IT obligations, including IM IT training requirements.
+1.	Ensure that employees are made aware of their [IM IT obligations](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/appropriate-use-policy), including IM IT training requirements.
 
 2.	Enable employees to meet their IM IT obligations.
 
@@ -181,7 +181,7 @@ Ministries must:
 1.	The GCIO may delegate responsibilities as defined in [12.2.1](#1221-government-chief-information-officer-gcio) above.
   a.	Employees must be made aware of their delegated authority.
 
-2.	Should the CRO choose to delegate statutory powers, delegation must be done in the manner specified in section 2 of the IMA.
+2.	Should the CRO choose to delegate statutory powers, delegation must be done in the manner specified in [section 2 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section2).
 
 3.	DMs or equivalent positions are empowered to structure their organizations and assign IM IT responsibilities in the way that best enables their lines of business to function and meet their legal and corporate obligations, as well as the unique needs of their partners and stakeholders. As such, DMs or equivalent positions may delegate their IM IT responsibilities as defined in [12.2.3](#1223-deputy-ministers-or-equivalent-positions-or-delegates) above.
   
@@ -229,7 +229,7 @@ Holistic approach combining elements of enterprise architecture, IM and service 
 
 ### **Government information:**
 
-As defined in Part 1 of the IMA.
+As defined in [Part 1 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section1).
 
 ### **Information:**
 
@@ -253,7 +253,7 @@ As defined in the Interpretation Act and/or FOIPPA; and/or, information created,
 
 ### **Records management:**
 
-The field of management responsible for the efficient and systematic control of the creation, receipt, maintenance, use and disposition of records, including processes for capturing and maintaining evidence of and information about business activities and transactions in the form of records. (Source: ISO 15489, cited in International Council on Archives)
+The field of management responsible for the efficient and systematic control of the creation, receipt, maintenance, use and disposition of records, including processes for capturing and maintaining evidence of and information about business activities and transactions in the form of records. (Source: ISO 15489, cited in [International Council on Archives](http://www.ciscra.org/mat/mat/term/297))
 
 ### **Service provider:**
 
@@ -266,18 +266,18 @@ A person to whom an employee directly reports or a person who manages a service 
 # Information and Resources to be posted on the CPPM website (righthand menu) 
 
 **Related Information:**
-*	Chief Records Officer (CRO) directives and guidelines
-*	Corporate IM IT policies, standards and guidelines
-*	Standards of Conduct
+*	[Chief Records Officer (CRO) directives and guidelines](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/corporate-information-records-management-office/information-management-act/cro-directives-guidelines)
+*	[Corporate IM IT policies, standards and guidelines](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures)
+*	[Standards of Conduct](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct)
 
 **Acts and Regulations:**
-*	Electronic Transactions Act (ETA)
-*	Freedom of Information and Protection of Privacy Act (FOIPPA)
-*	Information Management Act (IMA)
-*	Personal Information Protection Act (PIPA)
+*	[Electronic Transactions Act (ETA)](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01)
+*	[Freedom of Information and Protection of Privacy Act (FOIPPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00)
+*	[Information Management Act (IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027)
+*	[Personal Information Protection Act (PIPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01)
 
 **Resources:**
-*	Information Security
-*	Open Information
-*	Privacy & Personal Information Resources
+*	[Information Security](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security)
+*	[Open Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information)
+*	[Privacy & Personal Information Resources](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/resources)
 
