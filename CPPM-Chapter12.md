@@ -1,3 +1,5 @@
+# **DRAFT v. 0.1 Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management**
+
 # **Contents**
 
 * [12.0 Application](#120-application)
@@ -260,7 +262,6 @@ A person retained under a contract or service agreement to perform services for 
 ### **Supervisor:**
 
 A person to whom an employee directly reports or a person who manages a service provider contract or service agreement.
-
  
 # Information and Resources to be posted on the CPPM website (righthand menu) 
 
