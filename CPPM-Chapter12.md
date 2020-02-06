@@ -150,7 +150,7 @@ Ministries must:
 
 ## 12.3.3 Information Management
 
-The IMA is the Province of British Columbia's legislative framework for modern, digital information practices. In addition to following the IMA, ministries must:
+The IMA is the Province of British Columbia's legislative framework for modern, digital IM practices. In addition to following the IMA, ministries must:
 
 1.	Ensure that adequate resources are in place to manage ministry information in accordance with applicable legislation, including but not limited to the IMA, and with corporate policies and standards.
 
