@@ -12,7 +12,7 @@ The OCIO’s Chief Digital Officer, Jaimie Boyd, and Chief Policy Officer, Joel 
 **How to Contribute**
 
 - You can contribute issues directly to this repository.
-- We are seeking feedback on [draft v. 0.1 of Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management](CPPM-Chapter12.md)
+- We are seeking feedback on [draft v. 0.1 of Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management](https://github.com/bcgov/digital-policy/releases/tag/Ch12v.0.1)
 - We are also seeking feedback on draft Digital Principles, which are available at https://github.com/bcgov/digital-principles.
 
 **License**
