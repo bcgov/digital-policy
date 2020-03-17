@@ -101,9 +101,19 @@ The GCIO has the responsibility to:
 
 ## 12.2.2 Chief Records Officer (CRO)
 
-The CRO has statutory powers under the IMA and has the responsibility to:
+Under the IMA, the CRO has statutory powers and a mandate that includes:
 
-1.	Deliver on the [mandate set in the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section3).
+*	promoting the preservation of valuable government information for current and future use;
+*	approving information schedules governing the holding, transferring, archiving and disposal of government information,
+*	managing the digital archives and promoting its availability to the public;
+*	promoting effective IM within government; and
+*	examining, evaluating and reporting on government IM, including making recommendations considered advisable.
+
+Further to this mandate, the CRO has the responsibility to:
+
+1.	Provide expert IM guidance, training and advice to help ministries meet their IM obligations.
+
+2.	Promote efficient and effective IM across government to ensure that government information remains accessible (i.e., discoverable, available and usable) over time.
 
 ## 12.2.3 Deputy Ministers (or Equivalent Positions) or Delegates
 
