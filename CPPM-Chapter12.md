@@ -85,7 +85,7 @@ The GCIO has the responsibility to:
 
 8.	Manage enterprise contracts, planning and programs related to IM IT investment.
 
-9.	Work with ministry workforce plans and the Public Service Agency on IM IT human resource capacity and skills required to achieve government's strategic priorities.
+9.	Work with ministry workforce plans and the Public Service Agency (PSA) on IM IT human resource capacity and skills required to achieve government's strategic priorities.
 
 10. Advise Deputy Ministers on the hiring of Ministry Chief Information Officers (MCIOs) and other positions related to IM IT as necessary.
 
@@ -123,17 +123,27 @@ Deputy Ministers (DMs) or delegates have the responsibility to:
 
       a.	IM IT legislation and regulations,
 
-      b.	Ministerial directions/directives issued under FOIPPA,
+      b.	Ministerial directions, directives and orders issued under FOIPPA,
 
       c.	CRO directives issued under the IMA, and
 
-      d.	Corporate IM IT policies and standards.
+      d.	Corporate strategic direction, IM IT policies and standards.
 
-2.	Oversee ministry information and IT, and all related support activities.
+2. Se ministry-level strategic direction for IM IT.
 
-3.	Advise the Public Service Agency on the ministry’s IM IT human resource requirements.
+3. Ensure that ministry-specific IM IT policies, standards, procedures, guidelines, processes and training are in place as needed and appropriately documented.
 
-4.	Ensure proper delegation of authority for ministry IM IT and that employees are aware of their delegated authority (see [12.3.6](#1236-delegation-of-im-it-responsibilities) below).
+4.	Oversee ministry information, data and IT management.
+
+5. Ensure MCIOs are appointed.
+
+6. Ensure that their ministry is adequately resourced to meet its IM IT obligations.
+
+7.	Work with ministry workforce plans and the PSA on ministry IM IT human resource requirements.
+
+8.	Ensure proper delegation of authority for ministry IM IT and that employees are aware of their delegated authority (see [12.3.7](#1237-delegation-of-im-it-responsibilities) below).
+
+9. Ensure that ministry supervisors and employees are aware of their IM IT obligations.
 
 # 12.3 Policy
 
