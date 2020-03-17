@@ -39,7 +39,7 @@ Government IM IT includes, but is not necessarily limited to:
 * Digital service design, development and delivery
 * [Enterprise architecture](#enterprise-architecture)
 * [Enterprise design](#enterprise-design)
-* Enterprise Solutions
+* [Enterprise solutions](#enterprise-solutions)
 * Identity management
 * IM IT investment, including digital investment
 * Information security and cyber security
@@ -231,6 +231,10 @@ Conceptual blueprint enabling efficient structure and use of IT across governmen
 ### **Enterprise design:**
 
 Holistic approach combining elements of enterprise architecture, IM and service design to shape how government defines and delivers IM IT products and services, including digital products and services.
+
+### **Enterprise solutions:**
+
+Tangible responses to whole-of-government IM IT issues. Enterprise solutions are often technical in nature and include, but are not limited to, enterprise services, common components, shared databases and data registers.
 
 ### **Government information:**
 
