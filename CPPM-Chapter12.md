@@ -200,11 +200,21 @@ The OCIO must:
 
 Ministries must:
 
-1.	Make efforts to expand public access to government information and data by making it available online unless restricted by law, contract or policy.
+1.	Make reasonable efforts to expand public access to government information and data with defined value by making it available online, under the applicable open government licence, unless restricted by law, contract or policy.
 
-2.	Make reasonable efforts to share information and data with other ministries and partners.
+2.	Ensure that adequate resources are in place to respond to requests made under FOIPPA.
 
-3.	Ensure that adequate resources are in place to respond to requests made under FOIPPA.
+The OCIO must:
+
+3.	Set and manage corporate processes for responding to requests made under FOIPPA.
+
+4.	Assist ministries in responding to requests made under FOIPPA.
+
+Both ministries and the OCIO must:
+
+5.	Default to open licences and open standards.
+
+6.	Use, re-use and publicly release open-source code whenever practicable, unless restricted by law or policy.
 
 ## 12.3.6 User-centred Approach
 
