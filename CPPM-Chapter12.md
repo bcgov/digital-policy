@@ -249,15 +249,15 @@ The OCIO and ministries also must:
 
 In general, a common component:
   
-    a.	Exists as software;
+   a.	Exists as software;
   
-    b.	Can be used as a building block by other applications to deliver digital services; 
+   b.	Can be used as a building block by other applications to deliver digital services; 
   
-    c.	Is platform agnostic (i.e.: can be consumed by any platform) whenever possible;
+   c.	Is platform agnostic (i.e.: can be consumed by any platform) whenever possible;
   
-    d.	Provides narrow functionality; and
+   d.	Provides narrow functionality; and
   
-    e.	Can be leveraged by many different applications.
+   e.	Can be leveraged by many different applications.
 
 ### **Data:**
 
