@@ -73,7 +73,7 @@ The GCIO has the responsibility to:
 
 2. Provide expert advice and recommendations related to IM IT to senior decision makers across government, including Cabinet and Treasury Board.
 
-3.	Manage provincial IM IT legislation, including [FOIPPA](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027), the [ETA](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01) and [the Personal Information Protection Act (PIPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01).
+3.	Manage provincial IM IT legislation, including [FOIPPA](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027), the [ETA](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01) and the [Personal Information Protection Act (PIPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01).
 
 4.	Collaborate with ministries to develop and set corporate IM IT policies, standards, guidelines and procedures for the Province.
 
