@@ -1,4 +1,4 @@
-# **DRAFT v. 0.1 Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management**
+# **DRAFT v. 0.2 Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management**
 
 # **Contents**
 
