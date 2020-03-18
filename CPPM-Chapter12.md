@@ -73,7 +73,7 @@ The GCIO has the responsibility to:
 
 2. Provide expert advice and recommendations related to IM IT to senior decision makers across government, including Cabinet and Treasury Board.
 
-3.	Manage provincial IM IT legislation, including [FOIPPA](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027), the [ETA](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01) and [PIPA](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01).
+3.	Manage provincial IM IT legislation, including [FOIPPA](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027), the [ETA](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01) and [the Personal Information Protection Act (PIPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01).
 
 4.	Collaborate with ministries to develop and set corporate IM IT policies, standards, guidelines and procedures for the Province.
 
@@ -309,7 +309,7 @@ Refers to making government information available without a request for access u
 
 ### **Record:**
 
-Information created, received, and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the Interpretation Act and FOIPPA.
+Information created, received, and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the [Interpretation Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96238_01) and FOIPPA.
 
 ### **Records management:**
 
