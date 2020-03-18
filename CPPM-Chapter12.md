@@ -129,7 +129,7 @@ Deputy Ministers (DMs) or delegates have the responsibility to:
 
       d.	Corporate strategic direction, IM IT policies and standards.
 
-2. Se ministry-level strategic direction for IM IT.
+2. Set ministry-level strategic direction for IM IT.
 
 3. Ensure that ministry-specific IM IT policies, standards, procedures, guidelines, processes and training are in place as needed and appropriately documented.
 
