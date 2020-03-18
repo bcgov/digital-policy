@@ -240,6 +240,7 @@ The OCIO and ministries also must:
 3.	DMs or equivalent positions are empowered to structure their organizations and assign IM IT responsibilities in the way that best enables their lines of business to function and meet applicable legal and policy requirements, as well as the unique needs of their partners and stakeholders. As such, DMs or equivalent positions may delegate their IM IT responsibilities as defined in [12.2.3](#1223-deputy-ministers-or-equivalent-positions-or-delegates) above. DMs often delegate many or all IM IT responsibilities to an MCIO. DMs may delegate specific IM IT responsibilities to business areas and/or to specialized positions—e.g., Ministry Privacy Officers, Ministry Information Security Officers, data custodians, records officers, etc. 
   
       a. Ministries must document IM IT delegations.
+      
       b. Ministries must ensure that employees are made aware of their delegated authority for IM IT.
 
 # 12.4 Definitions
@@ -248,15 +249,15 @@ The OCIO and ministries also must:
 
 In general, a common component:
   
-   a.	Exists as software;
+    a.	Exists as software;
   
-   b.	Can be used as a building block by other applications to deliver digital services; 
+    b.	Can be used as a building block by other applications to deliver digital services; 
   
-   c.	Is platform agnostic (i.e.: can be consumed by any platform) whenever possible;
+    c.	Is platform agnostic (i.e.: can be consumed by any platform) whenever possible;
   
-   d.	Provides narrow functionality; and
+    d.	Provides narrow functionality; and
   
-   e.	Can be leveraged by many different applications.
+    e.	Can be leveraged by many different applications.
 
 ### **Data:**
 
