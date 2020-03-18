@@ -172,6 +172,7 @@ Ministries must:
 1.	Ensure that they manage information and data in their custody or control in accordance with:
 
     a. applicable legislation, including but not limited to the IMA, and
+    
     b. corporate policies, standards and procedures.
     
 2. Make efforts to define the value of their government information and data holdings, and proportionately manage these holdings as enterprise assets in accordance with their value.
