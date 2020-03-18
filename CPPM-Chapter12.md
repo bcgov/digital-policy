@@ -182,11 +182,19 @@ Ministries must:
 
 1.	Engage with the OCIO when designing or modifying an IT system or application to determine whether components already exist.
 
-2.	Leverage existing common components when practicable.
+2.	Use enterprise or shared IT solutions, resources and services to avoid duplication when available, appropriate and/or required by corporate policies or standards. This includes leveraging existing common components when practicable.
 
-3.	Identify opportunities for enterprise solutions based on business needs. Enterprise solutions include, but are not limited to, common components, shared databases, data registers, etc.
+3.	Identify opportunities for shared or enterprise solutions based on business needs.
 
-4.	When possible, partner with the OCIO and/or other ministries to design and build common components.
+4.	When possible, partner with the OCIO and/or other ministries to design, build and evolve common components.
+
+5.	Make reasonable efforts to share information, data and code with other ministries and partners, and to re-ruse existing data, unless restricted by law or policy.
+
+6.	Ensure that IM IT systems and solutions utilize government’s Enterprise Security Gateway services and technology for user identity, authentication, common logon, and user management support.
+
+The OCIO must:
+
+7.	Take a leadership role in the design, development, delivery, maintenance, evaluation and continuous improvement of enterprise solutions.
 
 ## 12.3.5 Open Information and Open Data
 
