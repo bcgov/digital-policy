@@ -45,7 +45,7 @@ Government IM IT includes, but is not necessarily limited to:
 * Information security and cyber security
 * IT infrastructure, such as government networks and systems
 * Management of government IT resources, including device management
-* Privacy and personal information management
+* Privacy and [personal information](#personal-information) management
 * [Records management](#records-management)
 
 # **12.1 Objective**	
