@@ -155,7 +155,7 @@ Ministries must:
 
 2.	Be diligent in ensuring that processes are in place to protect personal information.
 
-3.	Develop ministry-specific privacy policies and procedures in accordance with applicable legislation and corporate policies and standards.
+3.	Develop and maintain internal processes for privacy practices in accordance with applicable legislation and corporate policies and standards.
 
 ## 12.3.2 Information Security and Cyber Security
 
@@ -163,11 +163,18 @@ Ministries must:
 
 1.	Have a program in place to manage ministry-specific information and cyber security risks in accordance with applicable legislation and corporate policies and standards.
 
-## 12.3.3 Information Management
+2. Ensure that adequate resources are in place to manage information security and cyber security risks.
 
-The IMA is the Province of British Columbia's legislative framework for modern, digital IM practices. In addition to following the IMA, ministries must:
+## 12.3.3 Information and Data Management
 
-1.	Ensure that adequate resources are in place to manage ministry information in accordance with applicable legislation, including but not limited to the IMA, and with corporate policies and standards.
+Ministries must:
+
+1.	Ensure that they manage information and data in their custody or control in accordance with:
+
+    a. applicable legislation, including but not limited to the IMA, and
+    b. corporate policies, standards and procedures.
+    
+2. Make efforts to define the value of their government information and data holdings, and proportionately manage these holdings as enterprise assets in accordance with their value.
 
 ## 12.3.4 Enterprise Solutions
 
