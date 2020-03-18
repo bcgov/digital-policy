@@ -233,17 +233,14 @@ The OCIO and ministries also must:
 ## 12.3.7 Delegation of IM IT Responsibilities
 
 1.	The GCIO may delegate responsibilities as defined in [12.2.1](#1221-government-chief-information-officer-gcio) above.
-  a.	Employees must be made aware of their delegated authority.
+  a.	The OCIO must ensure that employees must be made aware of their delegated authority.
 
 2.	Should the CRO choose to delegate statutory powers, delegation must be done in the manner specified in [section 2 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section2).
 
-3.	DMs or equivalent positions are empowered to structure their organizations and assign IM IT responsibilities in the way that best enables their lines of business to function and meet their legal and corporate obligations, as well as the unique needs of their partners and stakeholders. As such, DMs or equivalent positions may delegate their IM IT responsibilities as defined in [12.2.3](#1223-deputy-ministers-or-equivalent-positions-or-delegates) above.
+3.	DMs or equivalent positions are empowered to structure their organizations and assign IM IT responsibilities in the way that best enables their lines of business to function and meet applicable legal and policy requirements, as well as the unique needs of their partners and stakeholders. As such, DMs or equivalent positions may delegate their IM IT responsibilities as defined in [12.2.3](#1223-deputy-ministers-or-equivalent-positions-or-delegates) above. DMs often delegate many or all IM IT responsibilities to an MCIO. DMs may delegate specific IM IT responsibilities to business areas and/or to specialized positions—e.g., Ministry Privacy Officers, Ministry Information Security Officers, data custodians, records officers, etc. 
   
-      a. DMs usually delegate many or all IM IT responsibilities to a Ministry Chief Information Officer (MCIO).
-  
-      b. DMs or MCIOs may delegate specific IM IT responsibilities to business areas and/or to specialized positions—e.g., Ministry Privacy Officers, Ministry Information Security Officers, data custodians, records officers, etc. 
-  
-      c. Ministries must ensure that employees are made aware of their delegated authority for IM IT.
+      a. Ministries must document IM IT delegations.
+      b. Ministries must ensure that employees are made aware of their delegated authority for IM IT.
 
 # 12.4 Definitions
 
