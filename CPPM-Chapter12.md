@@ -189,7 +189,7 @@ Ministries must:
 
 4.	When possible, partner with the OCIO and/or other ministries to design, build and evolve common components.
 
-5.	Make reasonable efforts to share information, data and code with other ministries and partners, and to re-ruse existing data, unless restricted by law or policy.
+5.	Make reasonable efforts to share information, data and code with other ministries and partners, and to re-use existing data, unless restricted by law or policy.
 
 6.	Ensure that IM IT systems and solutions utilize government’s Enterprise Security Gateway services and technology for user identity, authentication, common logon, and user management support.
 
