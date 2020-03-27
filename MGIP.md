@@ -4,29 +4,29 @@
 
 * [INTRODUCTION](#introduction)
 
-*  [Purpose](#purpose)
+  * [Purpose](#purpose)
 
-* [Overview](#overview)
+  * [Overview](#overview)
 
-* [Application](#application)
+  * [Application](#application)
 
-* [Authority](#authority)
+  * [Authority](#authority)
 
-* [Advice on this Policy](#advice-on-this-policy)
+  * [Advice on this Policy](#advice-on-this-policy)
 
 * [POLICY REQUIREMENTS](#policy-requirements)
 
-* [1. Creation and Use](#1-creation-and-use)
+  * [1. Creation and Use](#1-creation-and-use)
 
-* [2. Classification, Scheduling and Appraisal](#2-classification-scheduling-and-appraisal)
+  * [2. Classification, Scheduling and Appraisal](#2-classification-scheduling-and-appraisal)
 
-* [3. Preservation and Storage](#3-preservation-and-storage)
+  * [3. Preservation and Storage](#3-preservation-and-storage)
 
-* [4. Transfer and Disposal](#4-transfer-and-disposal)
+  * [4. Transfer and Disposal](#4-transfer-and-disposal)
 
-* [5. Training and Guidance](#5-training-and-guidance)
+  * [5. Training and Guidance](#5-training-and-guidance)
 
-* [6. Evaluation and Compliance](#6-evaluation-and-compliance)
+  * [6. Evaluation and Compliance](#6-evaluation-and-compliance)
 
 * [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
 
@@ -37,7 +37,7 @@
 
 ## **Purpose**
 
-This policy sets out ministry obligations for managing government information, specifically as they relate to [Information Management Act (IMA)](#http://www.bclaws.ca/civix/document/id/complete/statreg/15027) requirements.
+This policy sets out ministry obligations for managing government information, specifically as they relate to [Information Management Act (IMA)](http://www.bclaws.ca/civix/document/id/complete/statreg/15027) requirements.
 
 ## **Overview**
 
