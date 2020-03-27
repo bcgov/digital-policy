@@ -157,6 +157,29 @@ Government information to which an information schedule applies must be held, tr
 
 ## **3. Preservation and Storage**
 
+**Preservation**
+
+Government must preserve information to ensure the integrity of the evidence of its business, meet its legal obligations, and demonstrate accountability. 
+
+3.1	Ministries must ensure government information in their custody or control is preserved in a manner that protects authenticity, accessibility and context (understandability) throughout the information’s existence. This pertains to information in all formats (e.g., digital and physical records).
+
+3.2	Ministries must maintain records and data in formats that are stable and accessible in the long-term (i.e. as long as needed in accordance with the relevant information schedule). This includes reformatting and moving it to new systems when appropriate. 
+
+3.3	When digitizing government information, ministries must follow the Digitizing Government Information Standard.
+
+3.4	Ministries must ensure that any data migrations follow corporate policies, standards and procedures, and are managed and documented appropriately. 
+
+3.5	Ministries must ensure that digital information is preserved for as long as the applicable information schedule requires.
+
+**Storage**
+
+3.6	Ministries transferring physical records to offsite storage must use approved records storage facilities and services. For guidance, see RIM 422 Preparing Records for Offsite Storage, Section 2.1: Using Approved Records Storage Facilities. 
+
+3.7	Ministries must prepare records for storage in a manner that ensures the records will remain accessible for as long as they are required to support government business and accountability needs.
+
+3.8	Ministries must apply appropriate metadata to information in accordance with the Metadata Standard and other relevant requirements. Metadata must be persistently linked with information, regardless of where the information is stored over time.
+
+
 ## **4. Transfer and Disposal**
 
 ## **5. Training and Guidance**
