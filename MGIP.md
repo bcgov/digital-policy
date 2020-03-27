@@ -92,6 +92,18 @@ Government information is a strategic enterprise asset that must be managed in a
 
 ## **2. Classification, Scheduling and Appraisal**
 
+As outlined in [section 2 (3)(b) of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section2), the mandate of the CRO includes approving [information schedules](#information-schedule). This ensures that government records: 
+
+* are linked to their business context through classifications;
+* are retained as required according to authorized timetables; and
+* are transferred to the government archives, disposed of according to authorized timetables, or approved for removal to a non-government organization. 
+
+Within the Government of British Columbia, records classification is combined with information scheduling in one integrated system known as Administrative Records Classification System (ARCS) and Operational Records Classification Systems (ORCS).
+
+Government information to which an information schedule applies must be held, transferred (e.g., from a ministry to an external body), archived (i.e. transferred to the government archives) or destroyed (disposed of in accordance with the information schedule, as specified in (section 10 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section10)). In addition:
+
+2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
+
 ## **3. Preservation and Storage**
 
 ## **4. Transfer and Disposal**
