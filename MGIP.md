@@ -52,7 +52,6 @@ The OCIO, which is led by the Government Chief Information Officer (GCIO) and in
 
 The Province of British Columbia is committed to diversity and inclusion, reconciliation and equity. To support a government where the needs of all people are reflected, ministries should consider opportunities to address these commitments throughout the information lifecycle. 
 
-
 ## **Application**
 
 This policy applies to all ministries subject to the Core Policy and Procedures Manual. 
@@ -85,6 +84,58 @@ Government information is a strategic enterprise asset that must be managed in a
 * ensures accessibility, discoverability and usability of information over time.
 
 ## **1. Creation and Use**
+
+Ministries should apply the principles, standards and practices of the [records management](#records-management) discipline to managing government information in their custody or control. This includes information ministries create or receive. Taking a [lifecycle](#lifecycle) approach to understanding and managing government information will help ministries meet their IM obligations.
+
+_Managing and Protecting Information_
+
+1.1	Ministries must be aware of, and able to account for, the information in their custody or control. This includes identifying, documenting and managing government information in accordance with applicable legislation, policies, standards and procedures.
+
+1.2	Ministries must protect the [integrity](#integrity), [authenticity](#authenticity) and [reliability](#reliability) of government information in their custody or control.
+
+1.3	Ministries must ensure that information is identified adequately in order to be managed throughout its lifecycle. This involves using appropriate and consistent descriptive metadata, including names and naming conventions, and applying information schedules. 
+
+1.4	In cases where government information is duplicated between ministries, or is created collaboratively, an office of primary responsibility (OPR) must be clearly identified. The OPR must manage the information, including substantive drafts, according to the appropriate information schedule.
+
+_Access_
+
+1.5	Ministries must make information in their custody or control [accessible](#accessibility) and discoverable. To this end, records must be legible/readable, available, and searchable.  
+
+1.6	Ministries must be able to locate information in their custody or control in a timely manner.
+
+1.7	Ministries must strive to ensure that accessibility standards are met throughout the information lifecycle. For more information, see the [Accessibility & Inclusion Toolkit](https://www2.gov.bc.ca/gov/content/home/accessible-government/toolkit). 
+
+_Critical Information_
+
+1.8	Ministries must identify [critical information](#critical_information) in their custody or control. 
+
+1.9	Ministries must ensure that critical information in their custody or control is protected in a manner that will allow the information to retain its integrity and remain reliable, usable, accessible, and secure for as long as needed. 
+
+_Appropriate Systems_
+
+[Section 19 (1) of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section19) requires ministries to have an appropriate system in place for managing and securing government information. There are also various corporate policies and [standards](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/im-it-standards/find-a-standard) that contain requirements associated with managing and securing government information in an appropriate system, including but not limited to the following:
+
+* [Information Security Policy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines)
+* [Privacy Management and Accountability Policy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/privacy-policy)
+* Digitizing Government Information Standard
+
+The IMA also requires that ministries have an appropriate system in place for creating and maintaining government information that is an adequate record of their decisions. The [CRO Directive on Documenting Government Decisions](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/organizational-structure/crown-corporations/central-agencies/cirmo-spl/cro_01-2019.pdf) sets out the components of an appropriate system for creating and maintaining government information that is an adequate record of decisions. 
+
+The policy requirements below are meant to help ministries meet their IMA obligations as per section 19 (1) of the IMA.
+
+1.10	When establishing a system for managing records throughout their lifecycle, ministries must ensure they meet the requirements of an appropriate system.
+
+1.11	Ministries must ensure that government information and data are stored in systems and facilities that are monitored and maintained with appropriate security, access and environmental controls.
+
+1.12	Ministries must design and implement IM and IT systems with due consideration for information retention, destruction, privacy and access requirements.  
+
+1.13	Each ministry must maintain an inventory of all the systems it uses to manage information in its custody or control.
+
+1.14	Ministries must perform a risk assessment for each of its IM systems to identify and measure:
+   a.	the range of risks;
+   b.	vulnerability to threats;
+   c.	ministry roles and functions in crises; and 
+   d.	potential business impacts in the event of system issues.
 
 ## **2. Classification, Scheduling and Appraisal**
 
