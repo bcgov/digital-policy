@@ -37,9 +37,21 @@
 
 ## **Purpose**
 
-This policy sets out ministry obligations for managing government information, specifically as they relate to [Information Management Act (IMA)](http://www.bclaws.ca/civix/document/id/complete/statreg/15027) requirements.
+This policy sets out ministry obligations for managing government information, specifically as they relate to [Information Management Act](http://www.bclaws.ca/civix/document/id/complete/statreg/15027) (IMA) requirements.
 
 ## **Overview**
+
+The Province of British Columbia is the steward of a significant amount of [government information](#government-information), including [data](#data) and [records](#record). This policy is meant to help ministries understand their [information management (IM)](#information-management-im) obligations and must be considered in conjunction with:
+
+* applicable legislation, including but not limited to IMA and the [Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00) (FOIPPA);
+* the Core Policy and Procedures Manual, specifically Chapter 12: Information Management and Information Technology Management;
+* [directives and guidelines issued by the Chief Records Officer](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/corporate-information-records-management-office/information-management-act/cro-directives-guidelines) (CRO) under the IMA; and
+* corporate policies, standards and strategic direction issued by government, including the [Standards of Conduct for BC Public Service Employees](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct), the [Draft Principles that Guide the Province’s Relationship with Indigenous Peoples](https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf), the Province’s Digital Principles, and IM IT policies and standards issued by Office of the Chief Information Officer (OCIO).
+
+The OCIO, which is led by the Government Chief Information Officer (GCIO) and includes the CRO, is the central authority responsible for government IM IT. Both the Government Chief Information Officer (GCIO) and the CRO collaborate with ministries to set corporate policy, standards and guidelines related to IM. The OCIO’s Government Records Service (GRS) provides expert advice and services to help ministries meet their IM obligations. Ministries are responsible for managing information in their custody or control in the way that makes the most sense for their lines of business. 
+
+The Province of British Columbia is committed to diversity and inclusion, reconciliation and equity. To support a government where the needs of all people are reflected, ministries should consider opportunities to address these commitments throughout the information lifecycle. 
+
 
 ## **Application**
 
