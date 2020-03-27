@@ -132,10 +132,10 @@ The policy requirements below are meant to help ministries meet their IMA obliga
 1.13	Each ministry must maintain an inventory of all the systems it uses to manage information in its custody or control.
 
 1.14	Ministries must perform a risk assessment for each of its IM systems to identify and measure:
-   a.	the range of risks;
-   b.	vulnerability to threats;
-   c.	ministry roles and functions in crises; and 
-   d.	potential business impacts in the event of system issues.
+      a.	the range of risks;
+      b.	vulnerability to threats;
+      c.	ministry roles and functions in crises; and 
+      d.	potential business impacts in the event of system issues.
 
 ## **2. Classification, Scheduling and Appraisal**
 
@@ -149,7 +149,7 @@ Within the Government of British Columbia, records classification is combined wi
 
 Government information to which an information schedule applies must be held, transferred (e.g., from a ministry to an external body), archived (i.e. transferred to the government archives) or destroyed (disposed of in accordance with the information schedule, as specified in (section 10 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section10)). In addition:
 
-  2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
+   2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
 
 ## **3. Preservation and Storage**
 
