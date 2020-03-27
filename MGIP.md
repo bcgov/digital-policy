@@ -2,35 +2,35 @@
 
 ## **TABLE OF CONTENTS**
 
-## [INTRODUCTION](#introduction)
+* [INTRODUCTION](#introduction)
 
-## [Purpose](#purpose)
+*  [Purpose](#purpose)
 
-## [Overview](#overview)
+* [Overview](#overview)
 
-## [Application](#application)
+* [Application](#application)
 
-## [Authority](#authority)
+* [Authority](#authority)
 
-## [Advice on this Policy](#advice-on-this-policy)
+* [Advice on this Policy](#advice-on-this-policy)
 
-## [POLICY REQUIREMENTS](#policy-requirements)
+* [POLICY REQUIREMENTS](#policy-requirements)
 
-## [1. Creation and Use](#1-creation-and-use)
+* [1. Creation and Use](#1-creation-and-use)
 
-## [2. Classification, Scheduling and Appraisal](#2-classification-scheduling-and-appraisal)
+* [2. Classification, Scheduling and Appraisal](#2-classification-scheduling-and-appraisal)
 
-## [3. Preservation and Storage](#3-preservation-and-storage)
+* [3. Preservation and Storage](#3-preservation-and-storage)
 
-## [4. Transfer and Disposal](#4-transfer-and-disposal)
+* [4. Transfer and Disposal](#4-transfer-and-disposal)
 
-## [5. Training and Guidance](#5-training-and-guidance)
+* [5. Training and Guidance](#5-training-and-guidance)
 
-## [6. Evaluation and Compliance](#6-evaluation-and-compliance)
+* [6. Evaluation and Compliance](#6-evaluation-and-compliance)
 
-## [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
+* [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
 
-## [DEFINITIONS](#definitions)
+* [DEFINITIONS](#definitions)
 
 
 ## **INTRODUCTION**
@@ -145,23 +145,23 @@ The office that has primary responsibility for a category of records or holds th
 
 The principles, policies, rules, strategies, and activities aimed at prolonging the existence of an object by maintaining it in a condition suitable for use, either in its original format or in a more persistent format, while leaving intact the object's intellectual form.
 
-## **Record:**
+### **Record:**
 
 Information created, received and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the Interpretation Act and FOIPPA.
 
-## **Records management:**
+### **Records management:**
 
 The field of management responsible for the efficient and systematic control of the creation, receipt, maintenance, use and disposition of records, including processes for capturing and maintaining evidence of and information about business activities and transactions in the form of records. (Source: ISO 15489, cited in International Council on Archives).
 
-## **Reliability:**
+### **Reliability:**
 
 In the context of the records management discipline, relates to the trustworthiness of a record as a statement of fact; a record’s ability to serve as reliable evidence. Reliability is established by examining the completeness of the record's form and the amount of control exercised on the process of its creation.
 
-## **Service provider:**
+### **Service provider:**
 
 A person retained under a contract or service agreement to perform services for a ministry, agency, board or commission subject to the Core Policy and Procedures Manual.
 
-## **Supervisor:**
+### **Supervisor:**
 
 A person to whom an employee directly reports or a person who manages a service provider contract or service agreement.
 
