@@ -179,12 +179,21 @@ Government must preserve information to ensure the integrity of the evidence of 
 
 3.8	Ministries must apply appropriate metadata to information in accordance with the Metadata Standard and other relevant requirements. Metadata must be persistently linked with information, regardless of where the information is stored over time.
 
-
 ## **4. Transfer and Disposal**
 
 ## **5. Training and Guidance**
 
+Ministries are encouraged to support a culture of responsible IM. As outlined in the Appropriate Use Policy (AUP), supervisors are responsible for ensuring that employees receive the level of training on managing government information that is necessary to perform their duties. In addition:  
+
+5.1	Ministries must ensure that IM training is available in each office to ensure that employees are aware of how the office manages its information holdings. 
+
+5.2	Ministries must ensure mandatory IM training is completed by employees (e.g., IM 117). For more information on available training, see the GRS Learning Page and the PSA Learning System.
+
 ## **6. Evaluation and Compliance**
+
+Ministries’ IM practices may be evaluated, audited or reviewed by the CRO, independent offices such as the Auditor General and others with designated authority. In addition to cooperating with external evaluators, auditors or reviewers: 
+
+6.1	Ministries must regularly evaluate their management of government information to help determine their IM maturity and compliance with applicable legislation, policies and standards. 
 
 ## **ROLES AND RESPONSIBILITIES**
 
