@@ -181,6 +181,38 @@ Government must preserve information to ensure the integrity of the evidence of 
 
 ## **4. Transfer and Disposal**
 
+**Transfer**
+
+4.1	Before transferring custody of any government information to a government body covered by the IMA (including another ministry), ministries must authorize the transfer. For guidance, see [RIM 503 Records Transfer within Government](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim503_18.pdf).
+
+4.2	Ministries must ensure that the transfer of government information and associated metadata in their custody or control is:
+a.	done in accordance with corporate policies, standards and procedures; and
+b.	managed and documented appropriately with due regard for applicable access, confidentiality, and security provisions.
+
+4.3	Ministries must seek CRO approval and follow CRO processes for [alienation](#alienation) of information (i.e., when transferring government information to a non-government agency. For guidance, see [RIM 504 Records Transfer Outside of Government](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim504_18.pdf).
+
+**Government Archives**
+
+4.4	Ministries must work with the CRO to ensure that all physical and digital records in their custody or control that are eligible for archival transfer are transferred to the appropriate government archives.
+
+4.5	Before transferring eligible non-digital information to the digital archives, ministries must digitize that information in accordance with the Digitizing Government Information Standard.
+
+4.6	When preparing government information for transfer to the government archives, ministries must ensure that the records:
+a.	maintain their integrity, reliability, security and confidentiality during the transfer process administered by the CRO; and
+b.	meet any additional requirements established by the CRO. 
+
+**Destruction**
+
+The IMA requires ministries to dispose of government information in accordance with an applicable information schedule or, if no information schedule applies, with CRO approval. For guidance, see [RIM 501A Specifications for Destroying Records Onsite](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501a.pdf) and [RIM 501B Specifications for Destroying Records in Offsite Storage Facilities](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501b.pdf).
+
+4.7	Ministries must use destruction methods that protect security and confidentiality in compliance with applicable policy and procedures.  
+
+4.8	Ministries must regularly destroy transitory information that they create, collect, or receive. For guidance, see the [Transitory Records Guide](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/records-management/guides/transitoryrecords.pdf).
+
+4.9	Ministries must suspend destruction of information if a related litigation, legal action, request made under FOIPPA, or investigation is underway or anticipated.
+
+4.10	Ministries must not destroy or alter information (including associated metadata) normally preserved in enterprise government backups except in accordance with approved information schedules and processes.
+
 ## **5. Training and Guidance**
 
 Ministries are encouraged to support a culture of responsible IM. As outlined in the Appropriate Use Policy (AUP), supervisors are responsible for ensuring that employees receive the level of training on managing government information that is necessary to perform their duties. In addition:  
@@ -191,7 +223,7 @@ Ministries are encouraged to support a culture of responsible IM. As outlined in
 
 ## **6. Evaluation and Compliance**
 
-Ministries’ IM practices may be evaluated, audited or reviewed by the CRO, independent offices such as the Auditor General and others with designated authority. In addition to cooperating with external evaluators, auditors or reviewers: 
+Ministries’ IM practices may be evaluated, audited or reviewed by the CRO, independent offices such as the Auditor General and others with designated authority. In addition to cooperating with external evaluators, auditors, or reviewers: 
 
 6.1	Ministries must regularly evaluate their management of government information to help determine their IM maturity and compliance with applicable legislation, policies and standards. 
 
