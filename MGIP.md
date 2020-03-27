@@ -66,14 +66,19 @@ Core Policy and Procedures Manual Chapter 12.
 For questions or comments regarding this policy, please contact:
 
   IM IT Policy and Legislation Branch
+  
   Office of the Chief Information Officer, Ministry of Citizens’ Services
+  
   Telephone: 250-356-0361
+  
   Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
 
 For questions or comments regarding corporate information management services, please contact: 
 
   Government Records Service, Corporate Information and Records Management Office 
+ 
   Office of the Chief Information Officer, Ministry of Citizens’ Services
+ 
   Email: [GRS@gov.bc.ca](mailto:grs.gov.bc.ca) 
 
 ## **POLICY REQUIREMENTS**
@@ -86,7 +91,6 @@ Government information is a strategic enterprise asset that must be managed in a
 * maintains information about, including evidence of, business activities and transactions;
 * ensures information is preserved as long as it is required and appropriately transferred to the [government archives](#government-archives) if it is determined to have permanent value; and 
 * ensures accessibility, discoverability and usability of information over time.
-
 
 ## **1. Creation and Use**
 
@@ -102,7 +106,7 @@ Within the Government of British Columbia, records classification is combined wi
 
 Government information to which an information schedule applies must be held, transferred (e.g., from a ministry to an external body), archived (i.e. transferred to the government archives) or destroyed (disposed of in accordance with the information schedule, as specified in (section 10 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section10)). In addition:
 
-2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
+ 2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
 
 ## **3. Preservation and Storage**
 
