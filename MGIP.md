@@ -53,19 +53,28 @@ Core Policy and Procedures Manual Chapter 12.
 
 For questions or comments regarding this policy, please contact:
 
- IM IT Policy and Legislation Branch
- Office of the Chief Information Officer, Ministry of Citizens’ Services
- Telephone: 250-356-0361
- Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
+  IM IT Policy and Legislation Branch
+  Office of the Chief Information Officer, Ministry of Citizens’ Services
+  Telephone: 250-356-0361
+  Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
 
 For questions or comments regarding corporate information management services, please contact: 
 
- Government Records Service, Corporate Information and Records Management Office 
- Office of the Chief Information Officer, Ministry of Citizens’ Services
- Email: [GRS@gov.bc.ca](mailto:grs.gov.bc.ca) 
-
+  Government Records Service, Corporate Information and Records Management Office 
+  Office of the Chief Information Officer, Ministry of Citizens’ Services
+  Email: [GRS@gov.bc.ca](mailto:grs.gov.bc.ca) 
 
 ## **POLICY REQUIREMENTS**
+
+Government information is a strategic enterprise asset that must be managed in accordance with its value. Efficient and effective IM:
+
+* supports the design, development, implementation and evaluation of government policies, standards, processes, procedures, programs and services;
+* fosters informed decision making;
+* facilitates accountability, confidentiality, transparency and collaboration, and allows government to be more responsive to British Columbians;
+* maintains information about, including evidence of, business activities and transactions;
+* ensures information is preserved as long as it is required and appropriately transferred to the [government archives](#government-archives) if it is determined to have permanent value; and 
+* ensures accessibility, discoverability and usability of information over time.
+
 
 ## **1. Creation and Use**
 
