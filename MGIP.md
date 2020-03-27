@@ -87,7 +87,7 @@ Government information is a strategic enterprise asset that must be managed in a
 
 Ministries should apply the principles, standards and practices of the [records management](#records-management) discipline to managing government information in their custody or control. This includes information ministries create or receive. Taking a [lifecycle](#lifecycle) approach to understanding and managing government information will help ministries meet their IM obligations.
 
-_Managing and Protecting Information_
+**Managing and Protecting Information**
 
 1.1	Ministries must be aware of, and able to account for, the information in their custody or control. This includes identifying, documenting and managing government information in accordance with applicable legislation, policies, standards and procedures.
 
@@ -97,7 +97,7 @@ _Managing and Protecting Information_
 
 1.4	In cases where government information is duplicated between ministries, or is created collaboratively, an office of primary responsibility (OPR) must be clearly identified. The OPR must manage the information, including substantive drafts, according to the appropriate information schedule.
 
-_Access_
+**Access**
 
 1.5	Ministries must make information in their custody or control [accessible](#accessibility) and discoverable. To this end, records must be legible/readable, available, and searchable.  
 
@@ -105,13 +105,13 @@ _Access_
 
 1.7	Ministries must strive to ensure that accessibility standards are met throughout the information lifecycle. For more information, see the [Accessibility & Inclusion Toolkit](https://www2.gov.bc.ca/gov/content/home/accessible-government/toolkit). 
 
-_Critical Information_
+**Critical Information**
 
 1.8	Ministries must identify [critical information](#critical_information) in their custody or control. 
 
 1.9	Ministries must ensure that critical information in their custody or control is protected in a manner that will allow the information to retain its integrity and remain reliable, usable, accessible, and secure for as long as needed. 
 
-_Appropriate Systems_
+**Appropriate Systems**
 
 [Section 19 (1) of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section19) requires ministries to have an appropriate system in place for managing and securing government information. There are also various corporate policies and [standards](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/im-it-standards/find-a-standard) that contain requirements associated with managing and securing government information in an appropriate system, including but not limited to the following:
 
@@ -132,9 +132,13 @@ The policy requirements below are meant to help ministries meet their IMA obliga
 1.13	Each ministry must maintain an inventory of all the systems it uses to manage information in its custody or control.
 
 1.14	Ministries must perform a risk assessment for each of its IM systems to identify and measure:
+
       a.	the range of risks;
+      
       b.	vulnerability to threats;
+      
       c.	ministry roles and functions in crises; and 
+      
       d.	potential business impacts in the event of system issues.
 
 ## **2. Classification, Scheduling and Appraisal**
