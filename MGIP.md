@@ -214,6 +214,29 @@ Ministries’ IM practices may be evaluated, audited or reviewed by the CRO, ind
 
 ## **ROLES AND RESPONSIBILITIES**
 
+**Deputy Ministers (or equivalent positions) or delegates**
+
+Deputy Ministers (or equivalent positions) or delegates have the responsibility to:
+
+* Ensure that ministry-specific IM resources and training are in place as necessary; 
+* Oversee the development and implementation of ministry-specific policies, processes and procedures to support IM and adherence to corporate processes, as specified in the Recorded Information Management Manual; and
+* Ensure the ministry’s information holdings are managed in accordance with applicable legislation, policies, standards and procedures.
+
+**Chief Records Officer (CRO)**
+
+Further to the mandate set in the IMA, the Chief Records Officer (CRO) or delegates have the responsibility to:
+
+* Collaborate with the rest of the OCIO and ministries to develop clear and adequate IM strategies, policies, standards, processes and procedures, including information schedule development and information disposal;
+* Provide expert IM guidance in the form of online guides and learning resources, as well as advice and training to help ministries meet their IM obligations;
+* Administer government’s standard Enterprise Document and Records Management System (EDRMS), and other corporate recordkeeping systems;
+* Set standards for offsite records storage facilities, and administer offsite records storage and access on behalf of ministries—this includes managing enterprise contracts for long-term offsite storage of government information by service providers;
+* Conduct archival appraisal to determine the retention periods for government information, including identifying which information will be preserved in the government archives;
+* Approve information schedules, or delegate this responsibility as appropriate (e.g., to an established Information Management Advisory Committee);
+* [Accession](#accession) government information;
+* Manage processes for transferring government information to the government archives; and
+* Evaluate the management of government information.
+
+
 ## **DEFINITIONS**
 
 ### **Accessibility:**
