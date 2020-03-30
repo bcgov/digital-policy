@@ -219,12 +219,12 @@ Ministries’ IM practices may be evaluated, audited or reviewed by the CRO, ind
 Deputy Ministers (or equivalent positions) or delegates have the responsibility to:
 
 * Ensure that ministry-specific IM resources and training are in place as necessary; 
-* Oversee the development and implementation of ministry-specific policies, processes and procedures to support IM and adherence to corporate processes, as specified in the Recorded Information Management Manual; and
+* Oversee the development and implementation of ministry-specific policies, processes and procedures to support IM and adherence to corporate processes, as specified in the [Recorded Information Management Manual](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/government-records); and
 * Ensure the ministry’s information holdings are managed in accordance with applicable legislation, policies, standards and procedures.
 
 **Chief Records Officer (CRO)**
 
-Further to the mandate set in the IMA, the Chief Records Officer (CRO) or delegates have the responsibility to:
+Further to the [mandate set in the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section3), the Chief Records Officer (CRO) or delegates have the responsibility to:
 
 * Collaborate with the rest of the OCIO and ministries to develop clear and adequate IM strategies, policies, standards, processes and procedures, including information schedule development and information disposal;
 * Provide expert IM guidance in the form of online guides and learning resources, as well as advice and training to help ministries meet their IM obligations;
@@ -235,7 +235,6 @@ Further to the mandate set in the IMA, the Chief Records Officer (CRO) or delega
 * [Accession](#accession) government information;
 * Manage processes for transferring government information to the government archives; and
 * Evaluate the management of government information.
-
 
 ## **DEFINITIONS**
 
