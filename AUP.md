@@ -1,6 +1,4 @@
-# *Appropriate Use of Government Information and Information Technology Policy
-(Appropriate Use Policy)
-2020 Update - Draft Version 0.1*
+# **Appropriate Use of Government Information and Information Technology Policy (Appropriate Use Policy) 2020 Update - Draft Version 0.1**
 
 ## **TABLE OF CONTENTS**
 
@@ -23,12 +21,10 @@
 	
 This policy is meant to help government employees perform their duties in accordance with applicable laws, regulations, other corporate policies, and corporate standards and procedures related to information management (IM) and information technology (IT). This policy sets out the requirements that all employees must follow when:
 
-•	accessing and managing government information (particularly confidential information); and
-•	using government IT resources.
+* accessing and managing government information (particularly confidential information); and
+* using government IT resources.
 
 This policy also sets out specific IM IT requirements for supervisors.
-
-
 
 ## **Overview**
 
@@ -36,32 +32,32 @@ All government employees manage information and use government IT resources in t
 
 The Province of British Columbia expects employees to follow the Standards of Conduct for Public Service Employees, use sound and prudent judgement, and act in an ethical  manner in alignment with BC Public Service Corporate Values when:
 
-•	creating, collecting, accessing, using, disclosing or disposing of government information; 
-•	using IT resources, whether or not that use is directly related to their employment duties; and
-•	using social media—for more information, please see the Social Media Guidelines for Personal Use.
+* creating, collecting, accessing, using, disclosing or disposing of government information; 
+* using IT resources, whether or not that use is directly related to their employment duties; and
+* using social media—for more information, please see the Social Media Guidelines for Personal Use.
 
 Employees and supervisors should be aware that this policy is part of a wider landscape of IM IT requirements. For example:
 
-•	the Information Management Act (IMA) is the Province’s legislative framework for modern, digital IM practices;
-•	the collection, access, use, and disclosure of personal information must be in accordance with the Freedom of Information and Protection of Privacy Act (FOIPPA);
-•	Core Policy and Procedures Manual (CPPM) Chapter 12: Information Management and Information Technology Management
-o	sets out clear authority for IM IT policy at the corporate and ministry levels,
-o	outlines high-level roles and responsibilities for government IM IT, and
-o	provides the authority for the Government Chief Information Officer (GCIO) to set corporate IM IT policies, standards, processes, procedures and guidelines; 
-•	the Office of the Chief Information Officer (OCIO) includes the Chief Records Officer, (CRO), who has the authority under the IMA to issue directives and guidelines related to IM; and 
-•	ministries may expect their employees to follow ministry-specific IM IT policies and procedures.
+* the Information Management Act (IMA) is the Province’s legislative framework for modern, digital IM practices;
+* the collection, access, use, and disclosure of personal information must be in accordance with the Freedom of Information and Protection of Privacy Act (FOIPPA);
+* Core Policy and Procedures Manual (CPPM) Chapter 12: Information Management and Information Technology Management
+   * sets out clear authority for IM IT policy at the corporate and ministry levels,
+   * outlines high-level roles and responsibilities for government IM IT, and
+   * provides the authority for the Government Chief Information Officer (GCIO) to set corporate IM IT policies, standards, processes, procedures and guidelines; 
+* the Office of the Chief Information Officer (OCIO) includes the Chief Records Officer, (CRO), who has the authority under the IMA to issue directives and guidelines related to IM; and 
+* ministries may expect their employees to follow ministry-specific IM IT policies and procedures.
 
 The Province is committed to reconciliation, equity and developing an efficient public service that is representative of the diversity of the people of British Columbia . To support a government where the needs of all people are reflected, every employee should consider opportunities to address these commitments when making decisions about using government information and IT resources. 
 
-# **Application**
+## **Application**
 
 This policy applies to employees of all ministries, agencies, boards and commissions that are subject to CPPM. 
 
-# **Authority**
+## **Authority**
 
 CPPM Chapter 12.
 
-# **Advice on this Policy**
+## **Advice on this Policy**
 
 For questions or comments regarding this policy, please contact:
 
@@ -91,8 +87,8 @@ _Employees_
 1.5.	Employees must regularly dispose of transitory information that they create, collect, or receive, when it is no longer of value.
 
 1.6.	In response to an active Freedom of Information (FOI) request or request for legal discovery, employees must not:
-a.	willfully alter, falsify, conceal or dispose of government information (including transitory information); or 
-b.	direct another person to do so, with the intent to evade a request for access to records.
+   a. willfully alter, falsify, conceal or dispose of government information (including transitory information); or 
+   b. direct another person to do so, with the intent to evade a request for access to records.
 
 1.7.	Employees must respect intellectual property rights. For example, employees must not use, reproduce, modify or distribute software or data without the intellectual property owner’s permission. 
 
