@@ -2,7 +2,7 @@
 
 ## **TABLE OF CONTENTS**
 
-* [INTRODUCTION[(#introduction)
+* [INTRODUCTION](#introduction)
   * [Purpose](#purpose)
   * [Application](#application)
   * [Advice on this Policy](#advice-on-this-policy)
@@ -178,33 +178,33 @@ Additional information can be found at the OCIO My Service Centre. If you have f
 **Deputy Ministers (or Equivalent Positions) or Delegates**
 
 Deputy Ministers (or equivalent positions) or delegates have the responsibility to: 
-•	Ensure that ministry-specific policies and procedures are developed, where necessary, to support employee compliance with, and ministry monitoring of, this policy; and 
-•	Provide support to supervisors in their respective ministries to ensure that supervisors have the information and training necessary to fulfill their responsibilities as set out in this policy.
+* Ensure that ministry-specific policies and procedures are developed, where necessary, to support employee compliance with, and ministry monitoring of, this policy; and 
+* Provide support to supervisors in their respective ministries to ensure that supervisors have the information and training necessary to fulfill their responsibilities as set out in this policy.
 
 **Supervisors**
 
 Government supervisors have the responsibility to:
-•	Ensure that employees are made aware of their IM IT obligations, including requirements outlined in this policy and IM IT training requirements;
-•	Enable employees to meet their IM IT obligations;
-•	Ensure that service provider contracts adequately address IM IT; and
-•	Ensure that employees have appropriate access to government information and IT resources to support them in carrying out their work-related duties.
+* Ensure that employees are made aware of their IM IT obligations, including requirements outlined in this policy and IM IT training requirements;
+* Enable employees to meet their IM IT obligations;
+* Ensure that service provider contracts adequately address IM IT; and
+* Ensure that employees have appropriate access to government information and IT resources to support them in carrying out their work-related duties.
 
 **Employees**
 
 All government employees have the responsibility to:
-•	Be aware of and fulfill their IM IT obligations, including requirements outlined in this policy;
-•	Actively protect government information and government IT resources; and
-•	Seek direction from their supervisors if they have questions regarding their IM IT obligations, including requirements outlined in this policy.
+* Be aware of and fulfill their IM IT obligations, including requirements outlined in this policy;
+* Actively protect government information and government IT resources; and
+* Seek direction from their supervisors if they have questions regarding their IM IT obligations, including requirements outlined in this policy.
 
 ## **DEFINITIONS**
 
 Confidential information: A category of government information (as defined under the IMA) with confidentiality requirements. Confidential information includes, but is not limited to:
-•	Cabinet confidences (for example, a briefing note to Cabinet);
-•	government economic or financial information (for example, information about a proposed administrative plan that has not yet been implemented or made public);
-•	information harmful to intergovernmental relations (for example, information received in confidence from another government); 
-•	third-party business information, where its disclosure could harm the third party; 
-•	personal information; and
-•	legal advice or law enforcement information.
+* Cabinet confidences (for example, a briefing note to Cabinet);
+* government economic or financial information (for example, information about a proposed administrative plan that has not yet been implemented or made public);
+* information harmful to intergovernmental relations (for example, information received in confidence from another government); 
+* third-party business information, where its disclosure could harm the third party; 
+* personal information; and
+* legal advice or law enforcement information.
 
 ### **Device:**
 
