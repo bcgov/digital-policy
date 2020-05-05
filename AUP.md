@@ -24,7 +24,7 @@ This policy is meant to help government [employees](#employee) perform their dut
 * accessing and managing [government information](#government-information) (particularly [confidential information](#confidential-information)); and
 * using government [IT resources](#IT-resources).
 
-This policy also sets out specific IM IT requirements for supervisors.
+This policy also sets out specific IM IT requirements for [supervisors](#supervisor).
 
 ## **Overview**
 
