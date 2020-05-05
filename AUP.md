@@ -63,8 +63,7 @@ For questions or comments regarding this policy, please contact:
 
   IM IT Policy and Legislation Branch
   Office of the Chief Information Officer, Ministry of Citizens’ Services
-  * Telephone: 250-356-0361
-  * Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
+    * Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
 
 ## **POLICY REQUIREMENTS**
 
@@ -76,30 +75,30 @@ Government information is a strategic enterprise asset that needs to be managed 
 
 _Employees_
 
-1.1.	Employees must use government-provided accounts (e.g., email) when conducting government business.
+1.1.	Employees must use government-provided accounts (e.g., [email](https://ssbc-client.gov.bc.ca/Exchange/Exchangedefault.htm)) when conducting government business.
 
-1.2.	Employees must use a secure portal when accessing information on the government network, e.g., Virtual Private Network (VPN), email via Summer, BCNGN WiFi.
+1.2.	Employees must use a secure portal when accessing information on the [government network](#government-network), e.g., [Virtual Private Network (VPN)](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/remote-access/remote_access_services_user_guide_2020.pdf), [email via Summer](https://summer.gov.bc.ca), BCNGN WiFi.
 
 1.3.	Employees must store and save government information (e.g., documents, emails, etc.) in an appropriate system on a government network, e.g., LAN, EDRMS, line-of-business applications (SharePoint, case management systems).
 
 1.4.	In extenuating circumstances, an employee may temporarily store government information outside of a government network or use a non-government communication account (e.g., a personal email account) to conduct government business. When such a situation occurs, the employee must, as soon as reasonably possible, transfer the government information to a government network and delete the information from the account/system in which the information was temporarily stored. 
 
-1.5.	Employees must regularly dispose of transitory information that they create, collect, or receive, when it is no longer of value.
+1.5.	Employees must regularly dispose of [transitory information](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/records-management/guides/transitoryrecords.pdf) that they create, collect, or receive, when it is no longer of value.
 
-1.6.	In response to an active Freedom of Information (FOI) request or request for legal discovery, employees must not:
+1.6.	In response to an active [Freedom of Information (FOI) request](#freedom-of-information-(FOI)-request) or request for legal discovery, employees must not:
    a. willfully alter, falsify, conceal or dispose of government information (including transitory information); or 
    b. direct another person to do so, with the intent to evade a request for access to records.
 
-1.7.	Employees must respect intellectual property rights. For example, employees must not use, reproduce, modify or distribute software or data without the intellectual property owner’s permission. 
+1.7.	Employees must respect [intellectual property rights](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property/intellectual-property-program). For example, employees must not use, reproduce, modify or distribute software or data without the intellectual property owner’s permission. 
 
 _Supervisors_
 
-1.8.	At the commencement of an employee’s employment, supervisors must ensure the employee is made aware of the corporate and ministry policies, standards, processes and procedures that they must follow when accessing and managing information. This includes, but is not necessarily limited to, this policy and the Information Incident Management Policy.
+1.8.	At the commencement of an employee’s employment, supervisors must ensure the employee is made aware of the corporate and ministry policies, standards, processes and procedures that they must follow when accessing and managing information. This includes, but is not necessarily limited to, this policy and the [Information Incident Management Policy](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-privacy/resources/policies-guidelines/iimp_final.pdf).
 
 1.9.	Supervisors must ensure that employees are made aware when a significant change occurs respecting their access to government information or IT resources, including but not limited to:
    a.	the issuance of a new government device;
    b.	access to a new information database;
-   c.	an approved change in their workplace (see Flexible Workplaces & Information Security), and 
+   c.	an approved change in their workplace (see [Flexible Workplaces & Information Security](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/work-arrangements/flexible-workplaces/information-security)), and 
    d.	when a new or updated version of this policy or other IM IT policy or standard directly relevant to their work is issued.
 
 1.10.	Supervisors must ensure that employees receive information management training appropriate to their position
