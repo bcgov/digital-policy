@@ -64,7 +64,7 @@ For questions or comments regarding this policy, please contact:
 IM IT Policy and Legislation Branch
 Office of the Chief Information Officer, Ministry of Citizens’ Services
 Telephone: 250-356-0361
-Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)IM.ITpolicy@gov.bc.ca
+Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
 
 ## **POLICY REQUIREMENTS**
 
