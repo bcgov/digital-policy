@@ -19,28 +19,28 @@
 
 ## **Purpose**
 	
-This policy is meant to help government employees perform their duties in accordance with applicable laws, regulations, other corporate policies, and corporate standards and procedures related to information management (IM) and information technology (IT). This policy sets out the requirements that all employees must follow when:
+This policy is meant to help government [employees](#employee) perform their duties in accordance with applicable laws, regulations, other corporate policies, and corporate standards and procedures related to information management (IM) and information technology (IT). This policy sets out the requirements that all employees must follow when:
 
-* accessing and managing government information (particularly confidential information); and
-* using government IT resources.
+* accessing and managing [government information](#government-information) (particularly [confidential information](#confidential-information)); and
+* using government [IT resources](#IT-resources).
 
 This policy also sets out specific IM IT requirements for supervisors.
 
 ## **Overview**
 
-All government employees manage information and use government IT resources in the course of their daily work. As such, every employee is responsible for protecting government information, confidential information (including personal information) and government IT resources.
+All government employees manage information and use government IT resources in the course of their daily work. As such, every employee is responsible for protecting government information, confidential information (including [personal information](#personal-information)) and government IT resources.
 
-The Province of British Columbia expects employees to follow the Standards of Conduct for Public Service Employees, use sound and prudent judgement, and act in an ethical  manner in alignment with BC Public Service Corporate Values when:
+The Province of British Columbia expects employees to follow the [Standards of Conduct for Public Service Employees](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct), use sound and prudent judgement, and act in an ethical  manner in alignment with [BC Public Service Corporate Values](https://www2.gov.bc.ca/gov/content/careers-myhr/managers-supervisors/employee-labour-relations/conditions-agreements/accountability-framework/corporate-values) when:
 
 * creating, collecting, accessing, using, disclosing or disposing of government information; 
 * using IT resources, whether or not that use is directly related to their employment duties; and
-* using social media—for more information, please see the Social Media Guidelines for Personal Use.
+* using social media—for more information, please see the [Social Media Guidelines for Personal Use](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/social-media-guidelines).
 
 Employees and supervisors should be aware that this policy is part of a wider landscape of IM IT requirements. For example:
 
-* the Information Management Act (IMA) is the Province’s legislative framework for modern, digital IM practices;
-* the collection, access, use, and disclosure of personal information must be in accordance with the Freedom of Information and Protection of Privacy Act (FOIPPA);
-* Core Policy and Procedures Manual (CPPM) Chapter 12: Information Management and Information Technology Management
+* the [Information Management Act (IMA)](http://www.bclaws.ca/civix/document/id/complete/statreg/15027) is the Province’s legislative framework for modern, digital IM practices;
+* the collection, access, use, and disclosure of personal information must be in accordance with the [Freedom of Information and Protection of Privacy Act (FOIPPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00);
+* [Core Policy and Procedures Manual (CPPM) Chapter 12: Information Management and Information Technology Management](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management)
    * sets out clear authority for IM IT policy at the corporate and ministry levels,
    * outlines high-level roles and responsibilities for government IM IT, and
    * provides the authority for the Government Chief Information Officer (GCIO) to set corporate IM IT policies, standards, processes, procedures and guidelines; 
@@ -64,7 +64,7 @@ For questions or comments regarding this policy, please contact:
 IM IT Policy and Legislation Branch
 Office of the Chief Information Officer, Ministry of Citizens’ Services
 Telephone: 250-356-0361
-Email: IM.ITpolicy@gov.bc.ca
+Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)IM.ITpolicy@gov.bc.ca
 
 ## **POLICY REQUIREMENTS**
 
