@@ -85,7 +85,7 @@ _Employees_
 
 1.5.	In accordance with the applicable [information schedule](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/records-management/information-schedules/special-schedules/transitory-records), employees must regularly dispose of [transitory information](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/records-management/guides/transitoryrecords.pdf) that they create, collect, or receive, when it is no longer of value.
 
-1.6.	In response to an active [Freedom of Information (FOI) request](#freedom-of-information-(FOI)-request) or request for legal discovery, employees must not:
+1.6.	In response to an active [Freedom of Information (FOI) request](#freedom-of-information-FOI-request) or request for legal discovery, employees must not:
    a. willfully alter, falsify, conceal or dispose of government information (including transitory information); or 
    b. direct another person to do so, with the intent to evade a request for access to records.
 
