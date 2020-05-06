@@ -207,7 +207,7 @@ Confidential information: A category of government information (as defined under
 
 ### **Device:**
 
-An IT resource that can connect (wired, wireless or cellular) to the government network, including but not limited to desktop computers, laptops, tablets, cellphones, smartphones, portable storage devices and access cards.
+An IT resource that can connect (wired, wireless or cellular) to the government network, including but not limited to desktop computers, laptops, tablets, cellphones, smartphones, [portable storage devices](#portable-storage-device) and access cards.
 
 ### **Employee:**
 
@@ -219,11 +219,11 @@ The process of transforming information (referred to as plaintext) using an algo
 
 ### **Freedom of Information (FOI) request:**
 
-An access request made under Part 2 of FOIPPA for records held by government.
+An access request made under [Part 2 of FOIPPA](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_02#part2) for records held by government.
 
 ### **Government information:**
 
-As defined in Part 1 of the IMA.
+As defined in [Part 1 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section1).
 
 ### **Government network:**
 
@@ -247,7 +247,7 @@ A portable (or removable) device that is primarily designed to store digital inf
 
 ### **Privacy breach:**
 
-The theft or loss, or the access, collection, use or disclosure of personal information that is not authorized by Part 3 of FOIPPA. A privacy breach is a type of information incident. 
+The theft or loss, or the access, collection, use or disclosure of personal information that is not authorized by [Part 3 of FOIPPA](http://www.bclaws.ca/Recon/document/ID/freeside/96165_03#part3). A privacy breach is a type of information incident. 
 
 ### **Service provider:**
 
