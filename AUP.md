@@ -144,7 +144,7 @@ c.	is not used for personal financial gain.
 
 ## **3.	Applications and Software**
 
-3.1	Employees may download applications or software from the [Software Center](https://ociomysc.service-now.com/sp).
+3.1	Employees may download applications or software from the [Software Center](https://citz.sp.gov.bc.ca/sites/ES/DS/WS/Shared%20Documents/Service%20Information/Software%20Center%20User%20Guide.pdf).
 
 3.2	Employees must have their supervisor’s permission, and follow the established procedures, to access and use applications available from the [iStore](https://ssbc-client.gov.bc.ca/services/workstations/order.htm).
 
