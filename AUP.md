@@ -123,24 +123,24 @@ The Province is the steward of a significant amount of confidential information,
 
 ## **2.	Government IT Resources**
 
-2.1	Employees must securely manage and protect any government IT resources in their use. For specific information on mobile device management, please refer to the Mobile Device Guidelines.
+2.1	Employees must securely manage and protect any government IT resources in their use. For specific information on mobile device management, please refer to the [Mobile Device Guidelines](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/it-policies/mobile_device_guidelines.pdf).
 
 2.2	Reasonable personal use of government IT resources by employees is permitted. Personal use is reasonable provided it is lawful and:
 a.	is limited during core business hours and does not interfere with the employee’s duties and responsibilities;
-b.	does not compromise the security of government IT resources or government information, specifically confidential information; and
+b.	does not compromise the [security](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security) of government IT resources or government information, specifically confidential information; and
 c.	is not used for personal financial gain. 
 
 2.3	For privacy reasons, and to reduce government’s digital storage costs, employees must limit the amount of information that they store on government networks for personal reasons (e.g., family photos, personal documents). 
 
 2.4	Employees must reasonably prevent viruses (e.g., malware, phishing), spam/junk email or other malicious content from being introduced to government IT resources, including government-issued devices and government networks.
 
-2.5	Employees must securely manage and protect the usernames and passwords they use to access government IT resources. This includes not divulging passwords for technical support.
+2.5	Employees must securely manage and protect the usernames and [passwords](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness/password-best-practices) they use to access government IT resources. This includes not divulging passwords for technical support.
 
-2.6	Employees must immediately notify the 7-7000 Service Desk (250-387-7000, option 3) if they know of or suspect potential harm or risk to the network or any government IT resources (e.g., cyber attacks, phishing). Information security issues, vulnerabilities and threats are considered an information incident.
+2.6	Employees must immediately notify the [7-7000 Service Desk](mailto:77000@gov.bc.ca) (250-387-7000, option 3) if they know of or suspect potential harm or risk to the network or any government IT resources (e.g., cyber attacks, phishing). Information security issues, vulnerabilities and threats are considered an information incident.
 
-2.7	Employees must report any lost or stolen IT resource as per CPPM Chapter 20. A lost or stolen IT resource is considered an information incident. 
+2.7	Employees must report any lost or stolen IT resource as per [CPPM Chapter 20](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/loss-management). A lost or stolen IT resource is considered an information incident. 
 
-2.8	Employees must follow the Asset Disposal Process, as well as any relevant ministry or business-area policies and procedures, when disposing of government IT resources. 
+2.8	Employees must follow the [Asset Disposal Process](https://www2.gov.bc.ca/gov/content/governments/services-for-government/bc-bid-resources/goods-and-services-catalogue/asset-recovery-disposal), as well as any relevant ministry or business-area policies and procedures, when disposing of government IT resources. 
 
 ## **3.	Applications and Software**
 
