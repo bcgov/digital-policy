@@ -144,20 +144,20 @@ c.	is not used for personal financial gain.
 
 ## **3.	Applications and Software**
 
-3.1	Employees may download applications or software from the Software Center.
+3.1	Employees may download applications or software from the [Software Center](https://ociomysc.service-now.com/sp).
 
-3.2	Employees must have their supervisor’s permission, and follow the established procedures, to access and use applications available from the iStore.
+3.2	Employees must have their supervisor’s permission, and follow the established procedures, to access and use applications available from the [iStore](https://ssbc-client.gov.bc.ca/services/workstations/order.htm).
 
-3.3	If an employee wishes to use an application or piece of software that is available through either the Software Center or iStore, employees must download it from the Software Center or iStore, regardless of whether the application or software is available from another source.
+3.3	If an employee wishes to use an application or piece of software that is available through either the Software Center or iStore, they must download it from the Software Center or iStore, regardless of whether the application or software is available from another source.
 
 3.4	Employees must obtain their supervisor’s permission before downloading applications or software not available from the Software Center or iStore.
 
 3.5	Supervisors must not permit an employee to download or use applications or software that:
-   a.	are prohibited by the Office of the Chief Information Officer;
-   b.	present unacceptable privacy or security risks; 
-   c.	impose terms and conditions, such as indemnification clauses, that are unacceptable to government (CPPM Chapter 6). 
+   a.	are prohibited by the [Office of the Chief Information Officer](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/office-of-the-chief-information-officer);
+   b.	present unacceptable [privacy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/good-privacy-practices) or security risks; 
+   c.	impose terms and conditions, such as indemnification clauses, that are unacceptable to government (see CPPM Chapter 6). 
  
-Additional information can be found at the OCIO My Service Centre. If you have further questions, contact your Ministry Information Security Officer.
+Additional information can be found at the [OCIO My Service Centre](https://ociomysc.service-now.com/). If you have further questions, contact your [Ministry Information Security Officer](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines/role-of-miso).
 
 ## **4.	Monitoring and Investigations**
 
