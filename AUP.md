@@ -101,19 +101,19 @@ _Supervisors_
    c.	an approved change in their workplace (see [Flexible Workplaces & Information Security](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/work-arrangements/flexible-workplaces/information-security)), and 
    d.	when a new or updated version of this policy or other IM IT policy or standard directly relevant to their work is issued.
 
-1.10.	Supervisors must ensure that employees receive information management training appropriate to their position
+1.10.	Supervisors must ensure that employees receive [IM training](https://gww.gov.bc.ca/groups/learning-bc-public-service/information-and-privacy) appropriate to their positions.
 
 1.11.	Supervisors must ensure that employees have the appropriate level of access to information, including confidential information, that is required to perform their duties.
 
 ***Confidential Information***
 
-The Province is the steward of a significant amount of confidential information, including the personal information of British Columbians. All government employees need to do their part to protect confidential information. If an information incident occurs, employees and supervisors must follow the Information Incident Management Policy, which requires the immediate reporting of any suspected or actual information incident (including a privacy breach or cyber attack/phishing). In addition:
+The Province is the steward of a significant amount of confidential information, including the personal information of British Columbians. All government employees need to do their part to protect confidential information. If an information incident occurs, employees and supervisors must follow the [Information Incident Management Policy](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-privacy/resources/policies-guidelines/iimp_final.pdf), which requires the immediate reporting of any suspected or actual information incident (including a [privacy breach](#privacy-breach) or cyber [attack/phishing](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/cyber-security-alerts-notifications). In addition:
 
 1.12.	Employees must actively protect confidential information, especially when working in public places (e.g., on a bus, in an airport). This includes ensuring that information is not viewable or accessible by unauthorized persons.
 
-1.13.	Employees must secure confidential information in the workplace. This may include storing confidential paper records in locked drawers or cabinets; using strong passwords; and safeguarding devices used to store or access confidential information (e.g., lock your device when you’re not using it, ensure you sign out of a multi-function device after using it and that you don’t leave any confidential information on it).
+1.13.	Employees must secure confidential information in the [workplace](#workplace). This may include storing confidential paper records in locked drawers or cabinets; using [strong passwords](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness/password-best-practices); and safeguarding devices used to store or access confidential information (e.g., lock your device when you’re not using it, ensure you sign out of a multi-function device after using it and that you don’t leave any confidential information on it).
 
-1.14.	If confidential information is to be mailed or couriered, employees must use a trackable process, such as BC Mail or external couriers. Decryption passwords or paper-based information must not accompany the encrypted storage device that is mailed or couriered.
+1.14.	If confidential information is to be mailed or couriered, employees must use a trackable process, such as BC Mail or external couriers. [Decryption](https://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/cryptographic_standards.pdf) passwords or paper-based information must not accompany the [encrypted](encryption) storage device that is mailed or couriered.
 
 1.15.	Employees must limit the amount of confidential information, particularly personal information (which is subject to legal restrictions), that is disclosed, including through email or other communications such as instant messages, letters, faxes, etc.
 
