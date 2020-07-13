@@ -6,8 +6,8 @@ The OCIO’s Chief Digital Officer, Jaimie Boyd, and Chief Policy Officer, Joel 
 
 **Purpose**
 
-- Enable optimized use of government information and IT resources and enhanced services to citizens through a forward-thinking, cohesive and user-focused IM IT policy framework. This will include a modern and effective Core Policy on IM IT.
-- The DigitalT Policy Framework will also enable streamlined future development of other corporate policy instruments, and iteration in response to emerging needs and priorities.
+- Enable the optimal use of government information and IT resources and enhance services to citizens through a forward-thinking, cohesive and user-focused IM IT policy framework. This will include a modern and effective Core Policy on IM IT.
+- The Digital Policy Framework will also enable streamlined future development of other corporate policy instruments, and iteration in response to emerging needs and priorities.
 
 **How to Contribute**
 
