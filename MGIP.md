@@ -26,16 +26,18 @@ This policy sets out ministry obligations for managing government information, s
 
 ## **Overview**
 
-The Province of British Columbia is the steward of a significant amount of [government information](#government-information), including [data](#data) and [records](#record). This policy is meant to help ministries understand their [information management (IM)](#information-management-im) obligations and must be considered in conjunction with:
+The Province of British Columbia is the steward of a significant amount of [government information](#government-information), including [data](#data) and [records](#record). This policy is meant to help ministries understand their high level [information management (IM](#information-management-im) obligations and must be considered in conjunction with:
 
-* applicable legislation, including but not limited to IMA and the [Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00) (FOIPPA);
-* the Core Policy and Procedures Manual, specifically Chapter 12: Information Management and Information Technology Management;
+* applicable legislation, including but not limited to the IMA and the [Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00) (FOIPPA);
+* the [Core Policy and Procedures Manual, specifically Chapter 12: Information Management and Information Technology Management] (https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management);
 * [directives and guidelines issued by the Chief Records Officer](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/corporate-information-records-management-office/information-management-act/cro-directives-guidelines) (CRO) under the IMA; and
-* corporate policies, standards and strategic direction issued by government, including the [Standards of Conduct for BC Public Service Employees](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct), the [Draft Principles that Guide the Province’s Relationship with Indigenous Peoples](https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf), the Province’s Digital Principles, and IM IT policies and standards issued by Office of the Chief Information Officer (OCIO).
+* corporate policies, standards and strategic direction issued by government, including the [Standards of Conduct for BC Public Service Employees](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct), the [Draft Principles that Guide the Province’s Relationship with Indigenous Peoples](https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf), the Province’s [Digital Principles] (https://digital.gov.bc.ca/digital-principles/), and policies and standards issued by Office of the Chief Information Officer (OCIO).
 
-The OCIO, which is led by the Government Chief Information Officer (GCIO) and includes the CRO, is the central authority responsible for government IM IT. Both the Government Chief Information Officer (GCIO) and the CRO collaborate with ministries to set corporate policy, standards and guidelines related to IM. The OCIO’s Government Records Service (GRS) provides expert advice and services to help ministries meet their IM obligations. Ministries are responsible for managing information in their custody or control in the way that makes the most sense for their lines of business. 
+The OCIO, which is led by the Government Chief Information Officer (GCIO) and includes the CRO, is the central authority responsible for government IM and information technology (IT). Both the Government Chief Information Officer (GCIO) and the CRO collaborate with ministries to set corporate policy, standards and guidelines related to IM. The OCIO’s Government Records Service (GRS) supports the CRO in providing expert advice and services to help ministries meet their IM obligations. 
 
-The Province of British Columbia is committed to diversity and inclusion, reconciliation and equity. To support a government where the needs of all people are reflected, ministries should consider opportunities to address these commitments throughout the information lifecycle. 
+Ministries are encouraged to follow best practices in choosing IM approaches to help them achieve their mandates and support their ability to comply with applicable legislation and policy. Ministries should consider both the business value to their ministry as well as the corporate value of the information in their custody or control. 
+
+The Province of British Columbia is committed to reconciliation, equity and developing an efficient public service that is representative of the diversity of the people of British Columbia. To support a government where the needs of all people are reflected, ministries should consider opportunities to address these commitments throughout the information lifecycle. 
 
 ## **Application**
 
@@ -49,7 +51,7 @@ Core Policy and Procedures Manual Chapter 12.
 
 For questions or comments regarding this policy, please contact:
 
-IM IT Policy and Legislation Branch, Office of the Chief Information Officer, Ministry of Citizens’ Services
+Strategic Policy and Legislation Branch, Office of the Chief Information Officer, Ministry of Citizens’ Services
 * Email: [IM.ITpolicy@gov.bc.ca](mailto:im.itpolicy@gov.bc.ca)
 
 For questions or comments regarding corporate information management services, please contact: 
@@ -61,40 +63,45 @@ Government Records Service, Corporate Information and Records Management Office,
 
 Government information is a strategic enterprise asset that must be managed in accordance with its value. Efficient and effective IM:
 
-* supports the design, development, implementation and evaluation of government policies, standards, processes, procedures, programs and services;
-* fosters informed decision making;
+* supports the design, development, implementation and evaluation of government programs, services, policies, standards, processes and procedures;
+* fosters informed decision making and effective risk management;
 * facilitates accountability, confidentiality, transparency and collaboration, and allows government to be more responsive to British Columbians;
-* maintains information about, including evidence of, business activities and transactions;
-* ensures information is preserved as long as it is required and appropriately transferred to the [government archives](#government-archives) if it is determined to have permanent value; and 
+* maintains evidence of and information about business activities, transactions and decisions;
+* ensures government information is preserved for as long as it is required and appropriately transferred to the [government archives](#government-archives) if it is determined to have permanent value; and 
 * ensures accessibility, discoverability and usability of information over time.
 
 ## **1. Creation and Use**
 
-Ministries should apply the principles, standards and practices of the [records management](#records-management) discipline to managing government information in their custody or control. This includes information ministries create or receive. Taking a [lifecycle](#lifecycle) approach to understanding and managing government information will help ministries meet their IM obligations.
+Ministries should apply the principles, standards and practices of the [records management](#records-management) discipline to managing government information in their custody or control. This includes information ministries create and receive. Taking a [lifecycle](#lifecycle) approach to understanding and managing government information will help ministries meet their IM obligations.
 
 **Managing and Protecting Information**
 
-1.1	Ministries must be aware of, and able to account for, the information in their custody or control. This includes identifying, documenting and managing government information in accordance with applicable legislation, policies, standards and procedures.
+1.1	Ministries must be aware of, and able to account for, the information in their custody or control. This includes identifying, capturing, documenting and managing government information in accordance with applicable legislation, policies, standards and procedures.
 
 1.2	Ministries must protect the [integrity](#integrity), [authenticity](#authenticity) and [reliability](#reliability) of government information in their custody or control.
 
-1.3	Ministries must ensure that information is identified adequately in order to be managed throughout its lifecycle. This involves using appropriate and consistent descriptive metadata, including names and naming conventions, and applying information schedules. 
+1.3	Ministries must ensure that information is adequately identifiable so it can be managed throughout its lifecycle. This includes: 
+      a.	applying appropriate and consistent descriptive metadata to information in accordance with applicable metadata standards and other relevant requirements;
+      
+      a.	applying appropriate and consistent descriptive metadata to information in accordance with applicable metadata standards and other relevant requirements;
+      
+      b.	using naming conventions; and 
+      
+      c.	applying information schedules.
 
-1.4	In cases where government information is duplicated between ministries, or is created collaboratively, an office of primary responsibility (OPR) must be clearly identified. The OPR must manage the information, including substantive drafts, according to the appropriate information schedule.
+1.4	In cases where government information is duplicated for the same purpose by more than one office, or is created collaboratively, an office of primary responsibility (OPR) must be clearly identified. The OPR must manage the information, including substantive drafts, according to the appropriate information schedule.
 
 **Access**
 
-1.5	Ministries must make information in their custody or control [accessible](#accessibility) and discoverable. To this end, records must be legible/readable, available, and searchable.  
+1.5	Ministries must make information in their custody or control [accessible](#accessibility) and discoverable as appropriate. To this end, records should be legible/readable, available and searchable for employees who need to access the records.  
 
 1.6	Ministries must be able to locate information in their custody or control in a timely manner.
 
-1.7	Ministries must strive to ensure that accessibility standards are met throughout the information lifecycle. For more information, see the [Accessibility & Inclusion Toolkit](https://www2.gov.bc.ca/gov/content/home/accessible-government/toolkit). 
-
 **Critical Information**
 
-1.8	Ministries must identify [critical information](#critical_information) in their custody or control. 
+1.7	Ministries must identify [critical information](#critical_information) in their custody or control. 
 
-1.9	Ministries must ensure that critical information in their custody or control is protected in a manner that will allow the information to retain its integrity and remain reliable, usable, accessible, and secure for as long as needed. 
+1.8	Ministries must ensure that critical information in their custody or control is protected in a manner that will allow the information to retain its integrity and remain reliable, usable, accessible and secure for as long as needed. 
 
 **Appropriate Systems**
 
@@ -102,67 +109,66 @@ Ministries should apply the principles, standards and practices of the [records 
 
 * [Information Security Policy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines)
 * [Privacy Management and Accountability Policy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/privacy-policy)
-* Digitizing Government Information Standard
+* [Digitizing Government Information Standard] (https://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/digitizing-government-information-standard.pdf)
 
 The IMA also requires that ministries have an appropriate system in place for creating and maintaining government information that is an adequate record of their decisions. The [CRO Directive on Documenting Government Decisions](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/organizational-structure/crown-corporations/central-agencies/cirmo-spl/cro_01-2019.pdf) sets out the components of an appropriate system for creating and maintaining government information that is an adequate record of decisions. 
 
-The policy requirements below are meant to help ministries meet their IMA obligations as per section 19 (1) of the IMA.
+The policy requirements below are meant to help ministries meet their obligations as per section 19 (1) of the IMA.
 
-1.10	When establishing a system for managing records throughout their lifecycle, ministries must ensure they meet the requirements of an appropriate system.
+1.9	When establishing a system for managing records throughout their lifecycle, ministries must ensure they meet the requirements of an appropriate system.
 
-1.11	Ministries must ensure that government information and data are stored in systems and facilities that are monitored and maintained with appropriate security, access and environmental controls.
+1.10	Ministries must ensure that government information and data are stored in systems and facilities that are monitored and maintained with appropriate privacy, security, access and environmental controls.
 
-1.12	Ministries must design and implement IM and IT systems with due consideration for information retention, destruction, privacy and access requirements.  
+1.11	Ministries must design, implement and maintain IM and IT systems with due consideration for information retention, destruction, privacy and access requirements.  
 
-1.13	Each ministry must maintain an inventory of all the systems it uses to manage information in its custody or control.
+1.12	Each ministry must maintain an inventory of all the systems it uses to manage information in its custody or control.
 
-1.14	Ministries must perform a risk assessment for each of its IM systems to identify and measure:
+1.13	Ministries must ensure they can, for each of its IM systems to identify and measure:
 
       a.	the range of risks;
-      
       b.	vulnerability to threats;
-      
       c.	ministry roles and functions in crises; and 
-      
       d.	potential business impacts in the event of system issues.
 
 ## **2. Classification, Scheduling and Appraisal**
 
-As outlined in [section 2 (3)(b) of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section2), the mandate of the CRO includes approving [information schedules](#information-schedule). This ensures that government records: 
+As outlined in [sections 10 and 11 of the IMA](https://www.bclaws.ca/civix/document/id/complete/statreg/15027#part3), government information must be managed in accordance with applicable [information schedules](#information-schedule). This ensures that government records: 
 
 * are linked to their business context through classifications;
 * are retained as required according to authorized timetables; and
-* are transferred to the government archives, disposed of according to authorized timetables, or approved for removal to a non-government organization. 
+* are transferred to the government archives, destroyed according to authorized timetables, or approved for removal to a non-government organization. For guidance, see [RIM 504 Records Transfer Outside of Government] (https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim504_18.pdf).
 
-Within the Government of British Columbia, records classification is combined with information scheduling in one integrated system known as Administrative Records Classification System (ARCS) and Operational Records Classification Systems (ORCS).
+Within the Government of British Columbia, records classification is combined with information retention scheduling in one integrated system known as [Administrative Records Classification System (ARCS) and Operational Records Classification Systems (ORCS)] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/records-management/information-schedules).
 
-Government information to which an information schedule applies must be held, transferred (e.g., from a ministry to an external body), archived (i.e. transferred to the government archives) or destroyed (disposed of in accordance with the information schedule, as specified in (section 10 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section10)). In addition:
+2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
+   
+2.2 Ministries must implement and maintain office recordkeeping systems organized in accordance with the Administrative Records Classification System (ARCS), a program-specific Operational Records Classification System (ORCS), and/or other ongoing records schedules (including government-wide Special Schedules). For guidance, see RIM 102 Government Recordkeeping. 
 
-   2.1	Ministries must follow processes set out by the CRO for the development, approval, and implementation of information schedules. For guidance, see [RIM 201 Records Schedule Development, Approval and Amendment](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim201_18.pdf).  
+2.3 Ministries must apply the retention requirements of applicable information schedules to government information for which they are responsible and ensure appropriate destruction in accordance with section 4 of this policy. 
+
+2.4 Archival appraisal of government information must be undertaken by CRO delegates, in accordance with CRO policy and processes.
 
 ## **3. Preservation and Storage**
 
 **Preservation**
 
-Government must preserve information to ensure the integrity of the evidence of its business, meet its legal obligations, and demonstrate accountability. 
+Government must preserve information to ensure the integrity of the evidence of its business, meet its legal obligations and demonstrate accountability. 
 
-3.1	Ministries must ensure government information in their custody or control is preserved in a manner that protects authenticity, accessibility and context (understandability) throughout the information’s existence. This pertains to information in all formats (e.g., digital and physical records).
+3.1	Ministries must ensure government information in their custody or control is preserved in a manner that protects authenticity, accessibility and context (understandability) throughout the information’s lifecycle.
 
-3.2	Ministries must maintain records and data in formats that are stable and accessible in the long-term (i.e. as long as needed in accordance with the relevant information schedule). This includes reformatting and moving it to new systems when appropriate. 
+3.2	Ministries must maintain and preserve records and data in formats that are stable and accessible in the long-term (i.e. for as long as the applicable information schedule requires). This includes reformatting and moving records and data to new systems when appropriate. 
 
-3.3	When digitizing government information, ministries must follow the Digitizing Government Information Standard.
+3.3	When digitizing government information other than transitory information, ministries must follow the [Digitizing Government Information Standard] (https://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/digitizing-government-information-standard.pdf).
 
-3.4	Ministries must ensure that any data migrations follow corporate policies, standards and procedures, and are managed and documented appropriately. 
-
-3.5	Ministries must ensure that digital information is preserved for as long as the applicable information schedule requires.
+3.4	Ministries must ensure that any data migrations follow corporate policies, standards and procedures, and are documented appropriately. 
 
 **Storage**
 
-3.6	Ministries transferring physical records to offsite storage must use approved records storage facilities and services. For guidance, see RIM 422 Preparing Records for Offsite Storage, Section 2.1: Using Approved Records Storage Facilities. 
+3.5	Ministries transferring physical records to offsite storage must use approved records storage facilities and services. For guidance, see [RIM 422 Preparing Records for Offsite Storage] (https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim422_18.pdf), Section 2.1: Using Approved Records Storage Facilities. 
 
-3.7	Ministries must prepare records for storage in a manner that ensures the records will remain accessible for as long as they are required to support government business and accountability needs.
+3.6	Ministries must prepare records for storage in a manner that ensures the records will remain accessible for as long as they are required to support government business and accountability needs.
 
-3.8	Ministries must apply appropriate metadata to information in accordance with the Metadata Standard and other relevant requirements. Metadata must be persistently linked with information, regardless of where the information is stored over time.
+3.7	Ministries must apply appropriate metadata to information in accordance with the Metadata Standard and other relevant requirements. Metadata must be persistently linked with information, regardless of where the information is stored over time.
 
 ## **4. Transfer and Disposal**
 
@@ -171,24 +177,22 @@ Government must preserve information to ensure the integrity of the evidence of 
 4.1	Before transferring custody of any government information to a government body covered by the IMA (including another ministry), ministries must authorize the transfer. For guidance, see [RIM 503 Records Transfer within Government](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim503_18.pdf).
 
 4.2	Ministries must ensure that the transfer of government information and associated metadata in their custody or control is:
-a.	done in accordance with corporate policies, standards and procedures; and
-b.	managed and documented appropriately with due regard for applicable access, confidentiality, and security provisions.
+a.	undertaken in accordance with corporate policies, standards and procedures; and
+b.	managed and documented appropriately with due regard for applicable access, confidentiality and security provisions.
 
-4.3	Ministries must seek CRO approval and follow CRO processes for [alienation](#alienation) of information (i.e., when transferring government information to a non-government agency. For guidance, see [RIM 504 Records Transfer Outside of Government](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim504_18.pdf).
+4.3	Ministries must follow CRO processes for [alienation](#alienation) of information (i.e., when transferring government information to a non-government agency. For guidance, see [RIM 504 Records Transfer Outside of Government](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim504_18.pdf).
 
 **Government Archives**
 
 4.4	Ministries must work with the CRO to ensure that all physical and digital records in their custody or control that are eligible for archival transfer are transferred to the appropriate government archives.
 
-4.5	Before transferring eligible non-digital information to the digital archives, ministries must digitize that information in accordance with the Digitizing Government Information Standard.
-
-4.6	When preparing government information for transfer to the government archives, ministries must ensure that the records:
+4.5	When preparing government information for transfer to the government archives, ministries must ensure that the records:
 a.	maintain their integrity, reliability, security and confidentiality during the transfer process administered by the CRO; and
 b.	meet any additional requirements established by the CRO. 
 
 **Destruction**
 
-The IMA requires ministries to dispose of government information in accordance with an applicable information schedule or, if no information schedule applies, with CRO approval. For guidance, see [RIM 501A Specifications for Destroying Records Onsite](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501a.pdf) and [RIM 501B Specifications for Destroying Records in Offsite Storage Facilities](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501b.pdf).
+The IMA requires ministries to dispose of government information in accordance with an applicable information schedule or, if no information schedule applies, only with CRO approval. For guidance, see [RIM 501A Specifications for Destroying Records Onsite](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501a.pdf) and [RIM 501B Specifications for Destroying Records in Offsite Storage Facilities](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501b.pdf).
 
 4.7	Ministries must use destruction methods that protect security and confidentiality in compliance with applicable policy and procedures.  
 
