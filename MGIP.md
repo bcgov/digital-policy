@@ -194,13 +194,11 @@ b.	meet any additional requirements established by the CRO.
 
 The IMA requires ministries to dispose of government information in accordance with an applicable information schedule or, if no information schedule applies, only with CRO approval. For guidance, see [RIM 501A Specifications for Destroying Records Onsite](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501a.pdf) and [RIM 501B Specifications for Destroying Records in Offsite Storage Facilities](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures/recorded-information-policy/rim501b.pdf).
 
-4.7	Ministries must use destruction methods that protect security and confidentiality in compliance with applicable policy and procedures.  
+4.6	Ministries must use destruction methods that protect security and confidentiality in compliance with applicable policy and procedures.  
 
-4.8	Ministries must regularly destroy transitory information that they create, collect, or receive. For guidance, see the [Transitory Records Guide](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/records-management/guides/transitoryrecords.pdf).
+4.7	Ministries must suspend destruction of information if a related litigation, legal action, request made under FOIPPA, or investigation is underway or anticipated.
 
-4.9	Ministries must suspend destruction of information if a related litigation, legal action, request made under FOIPPA, or investigation is underway or anticipated.
-
-4.10	Ministries must not destroy or alter information (including associated metadata) normally preserved in enterprise government backups except in accordance with approved information schedules and processes.
+4.8	Ministries must not destroy or alter information (including associated metadata) normally preserved in enterprise government backups except in accordance with approved information schedules and processes.
 
 ## **5. Training and Guidance**
 
@@ -208,7 +206,7 @@ Ministries are encouraged to support a culture of responsible IM. As outlined in
 
 5.1	Ministries must ensure that IM training is available in each office to ensure that employees are aware of how the office manages its information holdings. 
 
-5.2	Ministries must ensure mandatory IM training is completed by employees (e.g., IM 117). For more information on available training, see the GRS Learning Page and the PSA Learning System.
+5.2	Ministries must ensure mandatory IM training is completed by employees (e.g., IM 117). For more information on available training, see the GRS Learning Page and the [PSA Learning System] (https://intranet.gov.bc.ca/thehub/ocio/cirmo/grs/grs-learning).
 
 ## **6. Evaluation and Compliance**
 
@@ -228,23 +226,23 @@ Deputy Ministers (or equivalent positions) or delegates have the responsibility 
 
 **Chief Records Officer (CRO)**
 
-Further to the [mandate set in the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section3), the Chief Records Officer (CRO) or delegates have the responsibility to:
+Further to the [mandate set in the IMA and responsibilities outlined in CPPM Chapter 12](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section3), the Chief Records Officer (CRO) or delegates have the responsibility to:
 
 * Collaborate with the rest of the OCIO and ministries to develop clear and adequate IM strategies, policies, standards, processes and procedures, including information schedule development and information disposal;
 * Provide expert IM guidance in the form of online guides and learning resources, as well as advice and training to help ministries meet their IM obligations;
 * Administer government’s standard Enterprise Document and Records Management System (EDRMS), and other corporate recordkeeping systems;
 * Set standards for offsite records storage facilities, and administer offsite records storage and access on behalf of ministries—this includes managing enterprise contracts for long-term offsite storage of government information by service providers;
-* Conduct archival appraisal to determine the retention periods for government information, including identifying which information will be preserved in the government archives;
+* Conduct archival appraisal to determine the retention requirements for government information, including identifying which information will be preserved in the government archives;
 * Approve information schedules, or delegate this responsibility as appropriate (e.g., to an established Information Management Advisory Committee);
-* [Accession](#accession) government information;
+* [Accession](#accession) government information as appropriate;
 * Manage processes for transferring government information to the government archives; and
-* Evaluate the management of government information.
+* Evaluate the management of government information, including ministry IM practices.
 
 ## **DEFINITIONS**
 
 ### **Accessibility:**
 
-The characteristic of being easily reached, retrieved, or used with minimum barriers. In the context of IM, accessibility refers to the availability and usability of recorded information. For information on the Province’s commitments to building a better B.C. for people with disabilities, please visit https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility.
+The characteristic of being easily reached, retrieved, or used by people regardless of abilities. In the context of IM, accessibility refers to the availability and usability of recorded information. For information on the Province’s commitments to building a better B.C. for people with disabilities, please visit https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility.
 
 ### **Accession:**
 
@@ -252,11 +250,11 @@ A body of records registered as a unit (and given an accession number) for the p
 
 ### **Alienation:**
 
-The permanent transfer of records and all present and future rights to the records from ministries to another entity in accordance with the IMA.
+The permanent transfer of records, and all rights to and ownership of the records, from ministries to another entity in accordance with the IMA.
 
 ### **Authenticity:**
 
-The quality of being genuine, not a counterfeit, and free from tampering or corruption. Authenticity alone does not automatically imply that the content of information is reliable or accurate; it merely establishes that information is what it purports to be and has verifiably been created by the person who claims to be the creator.
+The quality of being genuine, not a counterfeit and free from tampering or corruption. Authenticity alone does not automatically imply that the content of information is reliable or accurate; it merely establishes that information is what it purports to be and has been created verified a the original.
 
 ### **Classification:**
 
@@ -296,7 +294,7 @@ Any collection of data that is processed, analyzed, interpreted, classified or c
 
 ### **Information management (IM):**
 
-The means by which an organization plans, collects, organizes, governs, secures, uses, controls, disseminates, exchanges, maintains and disposes of its information; as well as any means through which the organization ensures that the value of that information is identified and used to its fullest extent, including the facilitation of efficient discoverability of information.
+The means by which an organization plans, collects, organizes, governs, protects, uses, controls, disseminates, exchanges, maintains and disposes of its information; as well as any means through which the organization ensures its information's value is identified and that the information is used to its fullest extent, including the facilitation of efficient discoverability of information.
 
 ### **Information schedule:**
 
@@ -304,11 +302,11 @@ Approved by the CRO under the IMA, an information schedule provides a timetable 
 
 ### **Integrity:**
 
-The quality of being whole and unaltered through loss, tampering, or corruption. In the context of records, integrity relates to the potential loss of physical or intellectual elements after a record has been created. As one of the components used to determine a record’s authenticity, integrity is a relative concept that assesses whether the essential nature of a record has changed.
+The quality of being whole and unaltered through loss, tampering or corruption. In the context of records, integrity relates to the potential loss of physical or intellectual elements after a record has been created. As one of the components used to determine a record’s authenticity, integrity is a relative concept that assesses whether the essential nature of a record has changed.
 
 ### **Lifecycle:**
 
-The life span of information from its creation or receipt and use, through to its final disposition: destruction, archiving or alienation. 
+The life span of information from its creation or receipt and use, through to its final disposition: destruction, transfer to the government archives or alienation (#alienation). 
 
 ### **Office of primary responsibility (OPR):**
 
@@ -316,15 +314,15 @@ The office that has primary responsibility for a category of records or holds th
 
 ### **Preservation:**
 
-The principles, policies, rules, strategies, and activities aimed at prolonging the existence of an object by maintaining it in a condition suitable for use, either in its original format or in a more persistent format, while leaving intact the object's intellectual form.
+The principles, policies, rules, strategies and activities aimed at prolonging the existence of an object by maintaining it in a condition suitable for use, either in its original format or in a more persistent format, while leaving intact the object's intellectual form.
 
 ### **Record:**
 
-Information created, received and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the Interpretation Act and FOIPPA.
+Information created, received and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the [Interpretation Act] (https://www.bclaws.ca/civix/document/id/complete/statreg/96238_01) and FOIPPA.
 
 ### **Records management:**
 
-The field of management responsible for the efficient and systematic control of the creation, receipt, maintenance, use and disposition of records, including processes for capturing and maintaining evidence of and information about business activities and transactions in the form of records. (Source: ISO 15489, cited in International Council on Archives).
+The field of management responsible for the efficient and systematic control of the creation, receipt, maintenance, use and disposition of records, including processes for capturing and maintaining evidence of and information about business activities and transactions in the form of records. (Source: ISO 15489, cited in [International Council on Archives] (http://www.ciscra.org/mat/mat/term/297)).
 
 ### **Reliability:**
 
@@ -337,4 +335,8 @@ A person retained under a contract or service agreement to perform services for 
 ### **Supervisor:**
 
 A person to whom an employee directly reports or a person who manages a service provider contract or service agreement.
+
+### **Transitory Information:**
+
+Information of temporary and/or low value that is needed for only a limited period of time in order to complete a routine action or prepare a subsequent record (e.g., a new version). For more information, see the Transitory Records Guide.
 
