@@ -1,4 +1,4 @@
-# **DRAFT v. 0.2 Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management**
+# **DRAFT v. 0.3 (Final CITZ Approved Draft, April 2020) Core Policy and Procedures Manual Chapter 12: Information Management and Information Technology Management**
 
 # **Contents**
 
@@ -9,13 +9,14 @@
   * [12.2.2 Chief Records Officer (CRO)](#1222-chief-records-officer-cro)
   * [12.2.3 Deputy Ministers (or Equivalent Positions) or Delegates](#1223-deputy-ministers-or-equivalent-positions-or-delegates)
 * [12.3 Policy](#123-policy)
-  * [12.3.1 Privacy and Personal Information](#1231-privacy-and-personal-information)
-  * [12.3.2 Information Security and Cyber Security](#1232-information-security-and-cyber-security)
-  * [12.3.3 Information Management](#1233-information-management)
-  * [12.3.4 Enterprise Solutions](#1234-enterprise-solutions)
-  * [12.3.5 Open Information, Open Data and Open Solutions](#1235-open-information-and-open-data)
-  * [12.3.6 User-centred Approach](#1236-user-centred-approach)
-  * [12.3.7 Delegation of IM IT Responsibilities](#1237-delegation-of-im-it-responsibilities)
+  * [12.3.1 Delegation of IM IT Responsibilities](#1231-delegation-of-im-it-responsibilities)
+  * [12.3.2 Privacy and Personal Information](#1232-privacy-and-personal-information)
+  * [12.3.3 Information Security and Cyber Security](#1233-information-security-and-cyber-security)
+  * [12.3.4 Information Management](#1234-information-management)
+  * [12.3.5 Enterprise Solutions](#1235-enterprise-solutions)
+  * [12.3.6 Open Information, Open Data and Open Solutions](#1236-open-information-open-data-and-open-solutions)
+  * [12.3.7 User-centred Approach](#1237-user-centred-approach)
+  
 * [12.4 Definitions](#124-definitions)
 * [Information and Resources to be posted on the CPPM website (righthand menu)](#information-and-resources-to-be-posted-on-the-cppm-website-righthand-menu)
 
@@ -27,7 +28,7 @@ This policy applies to government [information management (IM)](#information-man
 This Chapter does not list all corporate government IM IT requirements and must be read in conjunction with:
 
 * applicable legislation, including but not limited to the [Freedom of Information and Protection of Privacy Act (FOIPPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [Information Management Act (IMA)](http://www.bclaws.ca/civix/document/id/complete/statreg/15027) and the [Electronic Transactions Act (ETA)](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01);
-* corporate policies, standards and strategic direction issued by government, including the [Standards of Conduct for BC Public Service Employees](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct), the [Draft Principles that Guide the Province's Relationship with Indigenous Peoples](https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf), the Province's Digital Principles, and IM IT policies and standards issued by the Office of the Chief Information Officer (OCIO); and
+* corporate policies, standards and strategic direction issued by government, including the [Standards of Conduct for BC Public Service Employees](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct), the [Draft Principles that Guide the Province's Relationship with Indigenous Peoples](https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf), the [Province's Digital Principles](https://digital.gov.bc.ca/digital-principles), and IM IT policies and standards issued by the Office of the Chief Information Officer (OCIO); and
 * other core policy areas on planning [(chapter 3)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/planning-budgeting-and-reporting), procurement [(chapter 6)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/procurement), fees and licensing [(chapter 7)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/revenue-and-receivables-management), asset management [(chapter 8)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/asset-management), financial systems and controls [(chapter 13)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/financial-systems-and-controls), risk management [(chapter 14)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/risk-management), general security [(chapter 15)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/security), business continuity [(chapter 16)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/business-continuity-management), loss management [(chapter 20)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/loss-management) and communications and public engagement [(chapter 22)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/communications-and-public-engagement). 
 
 Government IM IT includes, but is not necessarily limited to:
@@ -44,7 +45,7 @@ Government IM IT includes, but is not necessarily limited to:
 * IM IT investment, including digital investment
 * Information security and cyber security
 * IT infrastructure, such as government networks and systems
-* Management of government IT resources, including device management
+* Management of government IT resources, including [device](#device) management
 * Privacy and [personal information](#personal-information) management
 * [Records management](#records-management)
 
@@ -52,9 +53,10 @@ Government IM IT includes, but is not necessarily limited to:
 
 The objective of this Chapter is to establish a policy foundation for IM IT to ensure that:
 
-* government information is managed as a strategic enterprise asset in accordance with its value;
-* government can increase operational efficiencies to better function as a single, connected organization (i.e., an enterprise); and
-* all government IM IT policies, standards and guidelines enable optimized use of government information, data and IT and enhanced services to citizens.
+* government makes use of modern, digital approaches to provide public services to British Columbians;
+* government information, including data, is managed as a strategic enterprise asset in accordance with its value and in support of integrated, evidence-based decision-making;
+* government can increase operational efficiencies to better function as a single, connected organization (i.e., an enterprise) while continually investing and building capacity; and
+* all government IM IT policies, standards, processes, procedures and guidelines enable optimized use of government information, data and IT and enhanced services to citizens.
 
 To meet this objective, this Chapter:
 
@@ -63,29 +65,29 @@ To meet this objective, this Chapter:
 
 # **12.2 Roles and Responsibilities**
 
-The Office of the Chief Information Officer (OCIO), which is led by the Government Chief Information Officer (GCIO), is the central authority responsible for Chapter 12. The OCIO includes the Chief Records Officer (CRO). Both the OCIO and deputy heads (Deputy Ministers or equivalent positions) of ministries, agencies, boards and commissions subject to the Core Policy and Procedures Manual (referred to as “ministries” hereafter) play key roles in IM IT governance.  
+The Office of the Chief Information Officer (OCIO), which is led by the Government Chief Information Officer (GCIO), is the central authority responsible for Chapter 12. The OCIO includes the Office of the Chief Records Officer (CRO). Both the OCIO and deputy heads (Deputy Ministers or equivalent positions) of ministries, agencies, boards and commissions subject to the Core Policy and Procedures Manual (referred to as “ministries” hereafter) play key roles in IM IT governance.  
 
 ## 12.2.1 Government Chief Information Officer (GCIO)
 
 The GCIO has the responsibility to:
 
-1.	Provide corporate strategic direction for government IM IT.
+1.	Provide corporate strategic direction for government IM IT, including direction in support of Digital Government.
 
-2. Provide expert advice and recommendations related to IM IT to senior decision makers across government, including Cabinet and Treasury Board.
+2. Provide expert advice and recommendations related to IM IT to senior decision makers across government and to Cabinet and its committees, including Treasury Board.
 
 3.	Manage provincial IM IT legislation, including [FOIPPA](http://www.bclaws.ca/civix/document/id/complete/statreg/96165_00), the [IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027), the [ETA](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01) and the [Personal Information Protection Act (PIPA)](http://www.bclaws.ca/civix/document/id/complete/statreg/03063_01).
 
-4.	Collaborate with ministries to develop and set corporate IM IT policies, standards, guidelines and procedures for the Province.
+4.	Collaborate with ministries to develop and set corporate IM IT policies, standards, processes, procedures and guidelines for the Province, and to identify best practices.
 
 5.	Deliver enterprise services related to IM IT.
 
-6.	Develop corporate communications, educational materials and training on IM IT legislation, directives, policies, standards and best practices.
+6.	Develop corporate communications, educational materials and training on IM IT, and promote data and IT literacy across government.
 
 7.	Identify, advance and evaluate enterprise architecture, shared/enterprise services and shared/enterprise solutions, including [common components](#common-components).
 
-8.	Manage enterprise contracts, planning and programs related to IM IT investment.
+8.	Set corporate priorities for IM IT investment, and manage related enterprise contracts, planning and programs.
 
-9.	Work with ministry workforce plans and the Public Service Agency (PSA) on IM IT human resource capacity and skills required to achieve government's strategic priorities.
+9.	Support ministry workforce plans and work with the Public Service Agency (PSA) on IM IT human resource capacity and skills required to achieve government's strategic priorities.
 
 10. Advise Deputy Ministers on the hiring of Ministry Chief Information Officers (MCIOs) and other positions related to IM IT as necessary.
 
@@ -97,7 +99,7 @@ The GCIO has the responsibility to:
 
       c.	CRO directives issued under the IMA, and
 
-      d.	Corporate IM IT policies and standards.
+      d.	Corporate IM IT policies, standards, processes and procedures.
 
 ## 12.2.2 Chief Records Officer (CRO)
 
@@ -127,45 +129,56 @@ Deputy Ministers (DMs) or delegates have the responsibility to:
 
       c.	CRO directives issued under the IMA, and
 
-      d.	Corporate strategic direction, IM IT policies and standards.
+      d.	Corporate strategic direction, IM IT policies, standards, processes and procedures.
 
-2. Set ministry-level strategic direction for IM IT.
+2. Set ministry-level strategic direction for IM IT, including ministry-specific direction in support of Digital Government.
 
-3. Ensure that ministry-specific IM IT policies, standards, procedures, guidelines, processes and training are in place as needed and appropriately documented.
+3. Ensure that ministry-specific IM IT policies, standards, processes, procedures, guidelines and training are in place as needed and appropriately documented.
 
 4.	Oversee ministry information, data and IT management.
 
-5. Ensure MCIOs are appointed.
+5. Ensure MCIOs or equivalent positions are appointed.
 
 6. Ensure that their ministry is adequately resourced to meet its IM IT obligations.
 
-7.	Work with ministry workforce plans and the PSA on ministry IM IT human resource requirements.
+7.	Support ministry workforce plans and work with the PSA and the OCIO on ministry IM IT human resource requirements.
 
-8.	Ensure proper delegation of authority for ministry IM IT and that employees are aware of their delegated authority (see [12.3.7](#1237-delegation-of-im-it-responsibilities) below).
-
-9. Ensure that ministry supervisors and employees are aware of their IM IT obligations.
+8. Ensure that ministry [supervisors](#supervisor) and [employees](#employee) are aware of their IM IT obligations.
 
 # 12.3 Policy
 
-## 12.3.1 Privacy and Personal Information
+## 12.3.1 Delegation of IM IT Responsibilities
+
+1.	The GCIO may delegate responsibilities as defined in [12.2.1](#1221-government-chief-information-officer-gcio) above.
+  a.	The OCIO must document such delegations and ensure that employees are made aware of their delegated authority.
+
+2.	Should the CRO choose to delegate statutory powers, delegation must be done in the manner specified in [section 2 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section2).
+
+3.	DMs or equivalent positions are empowered to structure their organizations and assign IM IT responsibilities in the way that best enables their lines of business to function and meet applicable legal and policy requirements, as well as the unique needs of their partners and stakeholders. As such, DMs or equivalent positions may delegate their IM IT responsibilities as defined in [12.2.3](#1223-deputy-ministers-or-equivalent-positions-or-delegates) above. DMs often delegate many or all IM IT responsibilities to an MCIO. DMs may delegate specific IM IT responsibilities to business areas and/or to specialized positions — e.g., Ministry Privacy Officers, Ministry Information Security Officers, data custodians, records officers, etc. 
+  
+      a. Ministries must document IM IT delegations.
+      
+      b. Ministries must ensure that employees are made aware of their delegated authority for IM IT.
+      
+## 12.3.2 Privacy and Personal Information
 
 Ministries must:
 
-1.	Collect, use, disclose, store and dispose of personal information with due care.
+1.	Collect, access, use, disclose, store and dispose of personal information with due care.
 
-2.	Be diligent in ensuring that processes are in place to protect personal information.
+2.	Ensure that processes are in place to protect personal information.
 
-3.	Develop and maintain internal processes for privacy practices in accordance with applicable legislation and corporate policies and standards.
+3.	Develop and maintain ministry-specific processes for privacy practices in accordance with applicable legislation and corporate policies, standards, processes and procedures.
 
-## 12.3.2 Information Security and Cyber Security
+## 12.3.3 Information Security and Cyber Security
 
 Ministries must:
 
-1.	Have a program in place to manage ministry-specific information and cyber security risks in accordance with applicable legislation and corporate policies and standards.
+1.	Collaborate with the OCIO to protect government networks, systems and information, including data.
 
-2. Ensure that adequate resources are in place to manage information security and cyber security risks.
+2. Have a program in place to manage ministry-specific information and cyber security risks in accordance with applicable legislation and corporate policies, standards, processes and procedures.
 
-## 12.3.3 Information and Data Management
+## 12.3.4 Information and Data Management
 
 Ministries must:
 
@@ -173,43 +186,45 @@ Ministries must:
 
     a. applicable legislation, including but not limited to the IMA, and
     
-    b. corporate policies, standards and procedures.
+    b. corporate policies, standards, processes and procedures.
     
-2. Make efforts to define the value of their government information and data holdings, and proportionately manage these holdings as enterprise assets in accordance with their value.
+2. Make reasonable efforts to ensure the quality and define the value of their government information and data holdings, and proportionately manage these holdings as enterprise assets in accordance with their value.
 
-## 12.3.4 Enterprise Solutions
+3. Make reasonable efforts to share information and data with other ministries and partners, and to re-use existing information and data, unless restricted by law or policy.
+
+4. Ensure that information and data is managed to reduce redundancies and enable interoperability.
+
+The OCIO must:
+
+5. Support ministries in managing their government information and data holdings.
+
+## 12.3.5 Enterprise Solutions
 
 Ministries must:
 
-1.	Engage with the OCIO when designing or modifying an IT system or application to determine whether components already exist.
+1.	Engage with the OCIO when designing or making significant modifications to an IT system or application to determine whether components already exist.
 
-2.	Use enterprise or shared IT solutions, resources and services to avoid duplication when available, appropriate and/or required by corporate policies or standards. This includes leveraging existing common components when practicable.
+2.	Use enterprise or shared IT solutions, resources and services to avoid duplication when available, appropriate and/or required by corporate policies, standards, processes or procedures. This includes leveraging existing common components when reasonable.
 
-3.	Identify opportunities for shared or enterprise solutions based on business needs.
+3.	Identify opportunities for new or improved shared or enterprise solutions based on business needs.
 
-4.	When possible, partner with the OCIO and/or other ministries to design, build and evolve common components.
+4.	When practicable, partner with the OCIO and/or other ministries to design, build and evolve common components.
 
-5.	Make reasonable efforts to share information, data and code with other ministries and partners, and to re-use existing data, unless restricted by law or policy.
-
-6.	Ensure that IM IT systems and solutions utilize government’s Enterprise Security Gateway services and technology for user identity, authentication, common logon, and user management support.
+5.	Ensure that IM IT systems and solutions utilize government’s shared identity services and related technology when identity information management and authentication of individuals, businesses and government workers is required.
 
 The OCIO must:
 
 7.	Take a leadership role in the design, development, delivery, maintenance, evaluation and continuous improvement of enterprise solutions.
 
-## 12.3.5 Open Information and Open Data
+## 12.3.6 Open Information, Open Data and Open Solutions
 
 Ministries must:
 
 1.	Make reasonable efforts to expand public access to government information and data with defined value by making it available online, under the applicable open government licence, unless restricted by law, contract or policy.
 
-2.	Ensure that adequate resources are in place to respond to requests made under FOIPPA.
-
 The OCIO must:
 
-3.	Set and manage corporate processes for responding to requests made under FOIPPA.
-
-4.	Assist ministries in responding to requests made under FOIPPA.
+3.	Set corporate processes and manage corporate programs for responding to requests for information made under FOIPPA.
 
 Both ministries and the OCIO must:
 
@@ -217,7 +232,7 @@ Both ministries and the OCIO must:
 
 6.	Use, re-use and publicly release open-source code whenever practicable, unless restricted by law or policy.
 
-## 12.3.6 User-centred Approach
+## 12.3.7 User-centred Approach
 
 When designing, developing, implementing or evaluating an IM or IT product or service, the OCIO and ministries must: 
 
@@ -230,19 +245,6 @@ The OCIO and ministries also must:
 3.	Work directly with identified individuals and groups to ensure their needs are understood, considered and addressed in the development of new or existing products or services.
 
 4.	Design, develop and deliver products and services that are accessibile to all users, or provide accessible alternatives, to reduce the barriers experienced by people with disabilities and those with distinct needs.
-
-## 12.3.7 Delegation of IM IT Responsibilities
-
-1.	The GCIO may delegate responsibilities as defined in [12.2.1](#1221-government-chief-information-officer-gcio) above.
-  a.	The OCIO must ensure that employees must be made aware of their delegated authority.
-
-2.	Should the CRO choose to delegate statutory powers, delegation must be done in the manner specified in [section 2 of the IMA](http://www.bclaws.ca/civix/document/id/complete/statreg/15027#section2).
-
-3.	DMs or equivalent positions are empowered to structure their organizations and assign IM IT responsibilities in the way that best enables their lines of business to function and meet applicable legal and policy requirements, as well as the unique needs of their partners and stakeholders. As such, DMs or equivalent positions may delegate their IM IT responsibilities as defined in [12.2.3](#1223-deputy-ministers-or-equivalent-positions-or-delegates) above. DMs often delegate many or all IM IT responsibilities to an MCIO. DMs may delegate specific IM IT responsibilities to business areas and/or to specialized positions—e.g., Ministry Privacy Officers, Ministry Information Security Officers, data custodians, records officers, etc. 
-  
-      a. Ministries must document IM IT delegations.
-      
-      b. Ministries must ensure that employees are made aware of their delegated authority for IM IT.
 
 # 12.4 Definitions
 
@@ -274,7 +276,7 @@ An individual working for, or on behalf of, a ministry, agency, board or commiss
 
 ### **Enterprise architecture:**
 
-The conceptual blueprint enabling efficient structure and use of IT across government as a whole for effective achievement of business outcomes. Enterprise architecture includes common components.
+The conceptual blueprint enabling efficient structure and use of IT across government as a whole for effective achievement of business outcomes.
 
 ### **Enterprise design:**
 
@@ -294,7 +296,7 @@ Any collection of data that is processed, analyzed, interpreted, classified or c
 
 ### **Information management (IM):**
 
-The means by which an organization plans, collects, organizes, governs, secures, uses, controls, disseminates, exchanges, maintains and disposes of its information; as well as any means through which the organization ensures that the value of that information is identified and used to its fullest extent, including the facilitation of efficient discoverability of information.
+The means by which an organization plans, collects, organizes, governs, protects, uses, controls, disseminates, exchanges, maintains and disposes of its information; as well as any means through which the organization ensures its information's value is identified and that the information is used to its fullest extent, including the facilitation of efficient discoverability of information.
 
 ### **Information technology (IT):**
 
@@ -306,11 +308,11 @@ As defined in FOIPPA.
 
 ### **Proactive disclosure:**
 
-Refers to making government information available without a request for access under FOIPPA.
+The action of making government information available without a request for access under FOIPPA.
 
 ### **Record:**
 
-Information created, received, and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the [Interpretation Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96238_01) and FOIPPA.
+Information created, received and maintained by an organization or person, in pursuance of legal obligations or in the transaction of business. This includes records formats defined in the [Interpretation Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96238_01) and FOIPPA.
 
 ### **Records management:**
 
@@ -322,7 +324,7 @@ A person retained under a contract or service agreement to perform services for 
 
 ### **Supervisor:**
 
-A person to whom an employee directly reports or a person who manages a service provider contract or service agreement.
+A person to whom an employee directly reports, or a person who manages a service provider contract or service agreement.
  
 # Information and Resources to be posted on the CPPM website (righthand menu) 
 
@@ -330,6 +332,7 @@ A person to whom an employee directly reports or a person who manages a service 
 *	[Chief Records Officer (CRO) directives and guidelines](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/corporate-information-records-management-office/information-management-act/cro-directives-guidelines)
 *	[Corporate IM IT policies, standards and guidelines](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures)
 *	[Standards of Conduct](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct)
+* [Appropriate Use of Government Information and Information Technology Policy (Appropriate Use Policy)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/appropriate-use-policy)
 
 **Acts and Regulations:**
 *	[Electronic Transactions Act (ETA)](http://www.bclaws.ca/civix/document/id/complete/statreg/01010_01)
@@ -342,4 +345,5 @@ A person to whom an employee directly reports or a person who manages a service 
 *	[Information Security](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security)
 *	[Open Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information)
 *	[Privacy & Personal Information Resources](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/resources)
+* [Accessibility & Inclusion Toolkit](https://www2.gov.bc.ca/gov/content/home/accessible-government/toolkit)
 
